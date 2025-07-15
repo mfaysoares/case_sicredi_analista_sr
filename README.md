@@ -1,4 +1,4 @@
-* **`data/raw/`**: Contém os conjuntos de dados brutos e originais fornecidos. **Estes arquivos não devem ser modificados.**
+* **`data/`**: Contém os conjuntos de dados brutos e originais fornecidos. **Estes arquivos não devem ser modificados.**
     * `base_case_analista_pesquisa_pleno_1.xlsx - base completa.csv`: O dataset principal com os dados do NPS.
     * `base_case_analista_pesquisa_pleno_1.xlsx - Descritivo das colunas.csv`: Um arquivo que descreve as colunas presentes na base de dados principal.
 * **`data/processed/`**: Destinado a armazenar dados que foram limpos, transformados ou gerados como resultado das etapas de pré-processamento e análise.
