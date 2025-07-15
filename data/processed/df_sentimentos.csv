@@ -1,0 +1,1106 @@
+num_idade;des_sexo;des_status_associado;des_segmento;des_subsegmento;des_nivel_risco;des_assoc_desde;n_de_produtos;resposta_nps;classificacao_nps;faixa_idade;faixa_produtos;Assunto;Sentimento
+42;M;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;2;5;DETRATORES;36-45;1-4;Atendimento em geral;neutro
+38;F;INATIVO;PF;PF I;ALTÍSSIMO;DE 1 A 2 ANOS;0;5;DETRATORES;36-45;0;Cartão de Crédito;neutro
+47;F;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;4;6;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+45;M;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;1;5;DETRATORES;46-55;1-4;Cartão de Crédito;negativo
+43;M;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;3;0;DETRATORES;36-45;1-4;Principalidade;negativo
+38;M;ATIVO;PF;PF IV;ALTO 2;DE 1 A 2 ANOS;3;5;DETRATORES;36-45;1-4;Cartão de Crédito;neutro
+41;F;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;4;6;DETRATORES;36-45;1-4;Atendimento em geral;positivo
+33;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+43;F;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;10;6;DETRATORES;36-45;10-14;Benefícios da Cooperativa;positivo
+42;F;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;4;5;DETRATORES;36-45;1-4;Funcionamento App;negativo
+43;F;ATIVO;PF;PF III;ALTO 2;DE 11 A 15 ANOS;2;1;DETRATORES;36-45;1-4;Atendimento em geral;neutro
+44;M;ATIVO;AG;Familiar;BAIXO 1;DE 3 A 5 ANOS;1;0;DETRATORES;36-45;1-4;Disponibilidade contato;negativo
+40;M;ATIVO;AG;Familiar;MÉDIO 1;A PARTIR DE 15 ANOS;1;5;DETRATORES;36-45;1-4;Cordialidade;negativo
+33;M;ATIVO;AG;Familiar;BAIXÍSSIMO;DE 6 A 10 ANOS;10;5;DETRATORES;25-35;10-14;Benefícios da Cooperativa;positivo
+39;F;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;1;0;DETRATORES;36-45;1-4;Outros;neutro
+51;M;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;1;5;DETRATORES;46-55;1-4;Funcionamento App;negativo
+42;M;ATIVO;PF;PF III;ALTÍSSIMO;DE 3 A 5 ANOS;1;5;DETRATORES;36-45;1-4;Funcionamento App;negativo
+41;F;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;2;6;DETRATORES;36-45;1-4;Estrutura da Agência;neutro
+42;F;ATIVO;AG;Familiar;ALTÍSSIMO;DE 6 A 10 ANOS;6;3;DETRATORES;36-45;5-9;Personalização e Proximidade;negativo
+49;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;1;2;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+28;F;ATIVO;PF;PF I;MÉDIO 1;ATÉ 12 MESES;5;6;DETRATORES;25-35;5-9;Uso App;positivo
+38;M;ATIVO;PF;PF I;BAIXO 2;DE 11 A 15 ANOS;5;5;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+38;M;ATIVO;PF;PF II;BAIXO 1;A PARTIR DE 15 ANOS;5;5;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+38;M;ATIVO;AG;Familiar;BAIXÍSSIMO;A PARTIR DE 15 ANOS;8;6;DETRATORES;36-45;5-9;Funcionalidades;neutro
+38;F;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;5;2;DETRATORES;36-45;5-9;Benefícios;negativo
+37;M;ATIVO;AG;Familiar;BAIXO 1;A PARTIR DE 15 ANOS;12;5;DETRATORES;36-45;10-14;Tempo ou Agilidade atendimento;positivo
+37;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;6;2;DETRATORES;36-45;5-9;Retorno solicitações;negativo
+38;F;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;7;0;DETRATORES;36-45;5-9;Atendimento em geral;negativo
+34;F;ATIVO;PF;PF II;ALTO 1;DE 3 A 5 ANOS;4;4;DETRATORES;25-35;1-4;Rentabilidade;negativo
+37;F;ATIVO;PF;PF I;BAIXO 2;DE 11 A 15 ANOS;9;6;DETRATORES;36-45;5-9;Funcionamento App;negativo
+31;M;ATIVO;PF;PF III;ALTO 2;ATÉ 12 MESES;4;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+52;F;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;3;3;DETRATORES;46-55;1-4;Cartão de Crédito;neutro
+18;F;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;3;5;DETRATORES;<25;1-4;Outros;neutro
+56;M;INATIVO;PF;PF II;ALTÍSSIMO;ATÉ 12 MESES;1;2;DETRATORES;56-70;1-4;Outros;neutro
+37;M;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;5;3;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+41;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 3 A 5 ANOS;5;5;DETRATORES;36-45;5-9;Cartão de Crédito;negativo
+34;M;ATIVO;PF;PF III;BAIXO 2;DE 1 A 2 ANOS;4;0;DETRATORES;25-35;1-4;Retorno solicitações;negativo
+37;F;ATIVO;PF;PF IV;MÉDIO 2;ATÉ 12 MESES;4;5;DETRATORES;36-45;1-4;Cartão de Crédito;negativo
+35;F;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Cartão de Crédito;negativo
+26;M;ATIVO;PF;PF I;ALTO 2;DE 3 A 5 ANOS;2;1;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+33;F;ATIVO;PF;PF I;MÉDIO 2;DE 6 A 10 ANOS;8;6;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+39;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;5;3;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;positivo
+67;F;ATIVO;PF;PF III;BAIXO 1;ATÉ 12 MESES;4;0;DETRATORES;56-70;1-4;Conta Corrente ou Poupança;negativo
+34;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;2;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+38;F;ATIVO;AG;Familiar;BAIXO 2;DE 11 A 15 ANOS;10;5;DETRATORES;36-45;10-14;Tempo ou Agilidade atendimento;positivo
+30;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;5;3;DETRATORES;25-35;5-9;Assertividade ou Orientação;neutro
+34;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;4;6;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+38;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;3;4;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+28;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;2;0;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+35;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;5;6;DETRATORES;36-45;5-9;Funcionalidades;negativo
+49;M;ATIVO;PF;PF III;BAIXÍSSIMO;A PARTIR DE 15 ANOS;8;3;DETRATORES;46-55;5-9;Assertividade ou Orientação;negativo
+47;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;0;DETRATORES;46-55;5-9;Outros;neutro
+38;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;3;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+28;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;2;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+31;M;ATIVO;PF;PF IV;MÉDIO 2;DE 3 A 5 ANOS;4;3;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+33;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;5;0;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+36;M;ATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;3;6;DETRATORES;36-45;1-4;Benefícios;positivo
+38;M;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;0;5;DETRATORES;36-45;0;Disponibilidade contato;negativo
+27;M;ATIVO;PF;PF III;MÉDIO 2;DE 3 A 5 ANOS;7;5;DETRATORES;25-35;5-9;Funcionalidades;negativo
+46;M;ATIVO;AG;Familiar;BAIXO 2;DE 6 A 10 ANOS;0;2;DETRATORES;46-55;0;Atendimento em geral;negativo
+34;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 1 A 2 ANOS;6;2;DETRATORES;25-35;5-9;Cartão de Crédito;neutro
+36;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 1 A 2 ANOS;1;3;DETRATORES;36-45;1-4;Principalidade;neutro
+19;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;0;0;DETRATORES;<25;0;Crédito, Empréstimo ou Financiamento;positivo
+47;M;ATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;6;1;DETRATORES;46-55;5-9;Outros;positivo
+33;F;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;10;5;DETRATORES;25-35;10-14;Atendimento em geral;neutro
+28;M;ATIVO;PF;PF III;MÉDIO 1;DE 11 A 15 ANOS;6;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;positivo
+33;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;3;6;DETRATORES;25-35;1-4;Funcionamento App;negativo
+33;F;ATIVO;PF;PF II;ALTO 2;DE 6 A 10 ANOS;3;2;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+32;M;ATIVO;PF;PF II;ALTO 1;DE 3 A 5 ANOS;9;4;DETRATORES;25-35;5-9;Facilidade ou Burocracia;negativo
+28;M;ATIVO;AG;Familiar;ALTO 1;A PARTIR DE 15 ANOS;1;0;DETRATORES;25-35;1-4;Disponibilidade contato;neutro
+34;F;ATIVO;PF;PF III;BAIXÍSSIMO;DE 11 A 15 ANOS;7;0;DETRATORES;25-35;5-9;Taxas e Tarifas;negativo
+29;F;ATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;25-35;5-9;Benefícios;negativo
+36;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;5;4;DETRATORES;36-45;5-9;Funcionalidades;positivo
+32;F;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;5;0;DETRATORES;25-35;5-9;Outros;neutro
+31;M;ATIVO;PF;PF II;BAIXO 1;DE 11 A 15 ANOS;10;5;DETRATORES;25-35;10-14;Crédito, Empréstimo ou Financiamento;neutro
+36;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;7;1;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+44;M;ATIVO;PF;PF IV;BAIXO 1;A PARTIR DE 15 ANOS;4;4;DETRATORES;36-45;1-4;Taxas e Tarifas;negativo
+31;M;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;2;0;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+37;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;4;1;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+32;F;ATIVO;AG;Familiar;BAIXO 1;ATÉ 12 MESES;8;5;DETRATORES;25-35;5-9;Assertividade ou Orientação;negativo
+25;F;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;4;6;DETRATORES;25-35;1-4;Funcionalidades;negativo
+28;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;6;DETRATORES;25-35;5-9;Tempo ou Agilidade atendimento;negativo
+33;M;ATIVO;PF;PF II;MÉDIO 1;DE 11 A 15 ANOS;5;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;neutro
+27;M;ATIVO;AG;Familiar;BAIXO 2;DE 6 A 10 ANOS;5;1;DETRATORES;25-35;5-9;Facilidade ou Burocracia;positivo
+24;M;ATIVO;PF;PF II;BAIXO 2;A PARTIR DE 15 ANOS;7;1;DETRATORES;<25;5-9;Crédito, Empréstimo ou Financiamento;negativo
+37;F;ATIVO;PF;PF II;ALTÍSSIMO;DE 1 A 2 ANOS;2;0;DETRATORES;36-45;1-4;Segurança;positivo
+26;M;ATIVO;PF;PF IV;ALTO 2;DE 1 A 2 ANOS;8;3;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+43;M;ATIVO;PF;PF III;MÉDIO 1;DE 11 A 15 ANOS;8;5;DETRATORES;36-45;5-9;Atendimento em geral;negativo
+42;M;ATIVO;PF;PF IV;ALTÍSSIMO;DE 6 A 10 ANOS;4;1;DETRATORES;36-45;1-4;Assertividade ou Orientação;positivo
+45;M;ATIVO;AG;Médio Produtor;BAIXO 2;ATÉ 12 MESES;4;6;DETRATORES;46-55;1-4;Tempo ou Agilidade atendimento;negativo
+28;M;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;0;0;DETRATORES;25-35;0;Taxas e Tarifas;negativo
+30;F;ATIVO;PF;PF III;DEFAULT;DE 11 A 15 ANOS;2;5;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+28;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;2;4;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+47;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 6 A 10 ANOS;8;0;DETRATORES;46-55;5-9;Retorno solicitações;negativo
+32;M;ATIVO;PF;PF III;MÉDIO 2;DE 6 A 10 ANOS;1;4;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+31;M;ATIVO;AG;Familiar;BAIXO 2;DE 11 A 15 ANOS;4;5;DETRATORES;25-35;1-4;Outros;neutro
+32;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;1;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+26;M;ATIVO;PF;PF I;MÉDIO 2;DE 11 A 15 ANOS;3;0;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+29;M;ATIVO;PF;PF II;ALTÍSSIMO;ATÉ 12 MESES;7;6;DETRATORES;25-35;5-9;Outros;negativo
+31;F;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;8;2;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+47;M;ATIVO;PF;PF I;BAIXO 2;DE 6 A 10 ANOS;4;5;DETRATORES;46-55;1-4;Rentabilidade;negativo
+35;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;8;4;DETRATORES;36-45;5-9;Taxas e Tarifas;positivo
+25;F;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;2;5;DETRATORES;25-35;1-4;Funcionalidades;negativo
+52;F;ATIVO;AG;Familiar;ALTO 2;A PARTIR DE 15 ANOS;6;2;DETRATORES;46-55;5-9;Outros;neutro
+31;F;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;3;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+30;M;ATIVO;PF;PF I;BAIXO 2;DE 1 A 2 ANOS;7;0;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+43;F;ATIVO;PF;PF III;BAIXÍSSIMO;A PARTIR DE 15 ANOS;7;6;DETRATORES;36-45;5-9;Taxas e Tarifas;negativo
+27;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;1;5;DETRATORES;25-35;1-4;Cartão de Crédito;neutro
+20;M;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;2;6;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;neutro
+34;F;ATIVO;AG;Familiar;MÉDIO 1;DE 6 A 10 ANOS;7;5;DETRATORES;25-35;5-9;Benefícios da Cooperativa;positivo
+28;F;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;7;5;DETRATORES;25-35;5-9;Benefícios da Cooperativa;positivo
+26;F;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;3;6;DETRATORES;25-35;1-4;Cartão de Crédito;neutro
+30;M;INATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;0;6;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;neutro
+32;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;5;2;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;neutro
+27;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;3;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+19;M;ATIVO;PF;PF I;BAIXO 2;DE 6 A 10 ANOS;2;3;DETRATORES;<25;1-4;Cordialidade;positivo
+47;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;6;3;DETRATORES;46-55;5-9;Troca de gerente;negativo
+41;F;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;3;1;DETRATORES;36-45;1-4;Taxas e Tarifas;positivo
+43;M;ATIVO;PF;PF II;BAIXÍSSIMO;DE 3 A 5 ANOS;4;2;DETRATORES;36-45;1-4;Pix;negativo
+45;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;4;4;DETRATORES;46-55;1-4;Assertividade ou Orientação;negativo
+19;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;1;0;DETRATORES;<25;1-4;Estrutura da Agência;neutro
+42;M;ATIVO;PF;PF II;BAIXO 2;DE 11 A 15 ANOS;3;0;DETRATORES;36-45;1-4;Conta Corrente ou Poupança;negativo
+34;F;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;5;3;DETRATORES;25-35;5-9;Atendimento em geral;negativo
+44;M;ATIVO;AG;Familiar;MÉDIO 1;DE 6 A 10 ANOS;9;1;DETRATORES;36-45;5-9;Cordialidade;negativo
+34;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;6;6;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+32;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;2;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+40;M;ATIVO;PF;PF I;MÉDIO 2;DE 6 A 10 ANOS;1;1;DETRATORES;36-45;1-4;Conta Corrente ou Poupança;negativo
+49;F;ATIVO;PF;PF IV;ALTO 2;DE 3 A 5 ANOS;2;0;DETRATORES;46-55;1-4;Atendimento em geral;negativo
+25;M;ATIVO;PF;PF II;MÉDIO 2;DE 6 A 10 ANOS;4;5;DETRATORES;25-35;1-4;Funcionamento App;negativo
+24;M;ATIVO;AG;Familiar;ALTO 2;DE 3 A 5 ANOS;1;2;DETRATORES;<25;1-4;Outros;neutro
+30;M;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;4;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+33;M;ATIVO;PF;PF II;ALTO 1;DE 11 A 15 ANOS;1;0;DETRATORES;25-35;1-4;Benefícios da Cooperativa;positivo
+72;F;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;3;5;DETRATORES;70+;1-4;Outros;neutro
+41;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;4;6;DETRATORES;36-45;1-4;Principalidade;negativo
+29;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;neutro
+64;M;ATIVO;PF;PF I;BAIXO 2;DE 11 A 15 ANOS;5;6;DETRATORES;56-70;5-9;Facilidade ou Burocracia;negativo
+41;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 11 A 15 ANOS;4;5;DETRATORES;36-45;1-4;Confiabilidade da Coop;positivo
+32;M;ATIVO;PF;PF I;ALTO 2;DE 6 A 10 ANOS;2;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+20;F;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;6;2;DETRATORES;<25;5-9;Taxas e Tarifas;negativo
+24;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;2;5;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+43;F;ATIVO;PF;PF I;BAIXO 2;ATÉ 12 MESES;4;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;positivo
+25;F;ATIVO;PF;PF I;BAIXO 1;DE 6 A 10 ANOS;6;6;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+25;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 3 A 5 ANOS;3;5;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+19;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;5;DETRATORES;<25;1-4;Outros;neutro
+37;F;ATIVO;PF;PF I;MÉDIO 1;ATÉ 12 MESES;0;2;DETRATORES;36-45;0;Assertividade ou Orientação;negativo
+31;M;INATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;0;1;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;neutro
+31;F;ATIVO;PF;PF IV;MÉDIO 1;DE 6 A 10 ANOS;7;5;DETRATORES;25-35;5-9;Retorno solicitações;negativo
+34;M;ATIVO;PF;PF I;BAIXO 2;DE 1 A 2 ANOS;5;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+38;F;INATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;0;6;DETRATORES;36-45;0;Retorno solicitações;negativo
+40;F;INATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;0;5;DETRATORES;36-45;0;Cartão de Crédito;negativo
+44;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;3;0;DETRATORES;36-45;1-4;Assertividade ou Orientação;negativo
+18;F;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Funcionamento App;negativo
+43;M;ATIVO;AG;Familiar;BAIXO 2;DE 3 A 5 ANOS;7;3;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+19;F;INATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;0;0;DETRATORES;<25;0;Facilidade ou Burocracia;positivo
+31;F;ATIVO;PF;PF IV;MÉDIO 1;ATÉ 12 MESES;4;0;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+41;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;0;DETRATORES;36-45;1-4;Cartão de Crédito;neutro
+39;M;ATIVO;AG;Médio Produtor;MÉDIO 2;DE 6 A 10 ANOS;4;4;DETRATORES;36-45;1-4;Confiabilidade da Coop;negativo
+28;F;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;4;2;DETRATORES;25-35;1-4;Principalidade;negativo
+40;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;4;2;DETRATORES;36-45;1-4;Disponibilidade contato;negativo
+19;M;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Funcionamento App;negativo
+38;M;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;3;0;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+30;F;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;10;1;DETRATORES;25-35;10-14;Confiabilidade da Coop;negativo
+19;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;4;3;DETRATORES;<25;1-4;Funcionamento App;negativo
+25;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;0;0;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;neutro
+33;M;ATIVO;PF;PF I;;ATÉ 12 MESES;2;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+20;M;ATIVO;PF;PF II;ALTO 1;DE 3 A 5 ANOS;3;4;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+28;M;ATIVO;PF;PF I;MÉDIO 2;DE 6 A 10 ANOS;5;6;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+46;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;3;5;DETRATORES;46-55;1-4;Cartão de Crédito;neutro
+39;M;ATIVO;PF;PF IV;MÉDIO 1;DE 6 A 10 ANOS;4;1;DETRATORES;36-45;1-4;Atendimento em geral;neutro
+19;M;INATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;2;5;DETRATORES;<25;1-4;Atendimento em geral;neutro
+36;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;3;6;DETRATORES;36-45;1-4;Cartão de Crédito;positivo
+29;F;INATIVO;PF;PF I;ALTÍSSIMO;DE 1 A 2 ANOS;0;5;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;positivo
+31;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;3;0;DETRATORES;25-35;1-4;Benefícios;negativo
+39;F;ATIVO;PF;PF III;ALTO 2;DE 11 A 15 ANOS;1;0;DETRATORES;36-45;1-4;Atendimento em geral;neutro
+27;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;7;0;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;neutro
+38;M;ATIVO;PF;PF III;BAIXO 1;DE 11 A 15 ANOS;4;3;DETRATORES;36-45;1-4;Principalidade;negativo
+35;F;INATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;0;0;DETRATORES;36-45;0;Cartão de Crédito;neutro
+23;M;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;9;5;DETRATORES;<25;5-9;Funcionamento App;negativo
+20;M;ATIVO;AG;Familiar;DEFAULT;DE 3 A 5 ANOS;1;3;DETRATORES;<25;1-4;Taxas e Tarifas;negativo
+36;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;4;4;DETRATORES;36-45;1-4;Confiabilidade da Coop;negativo
+39;M;INATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;1;4;DETRATORES;36-45;1-4;Funcionamento App;negativo
+27;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;6;5;DETRATORES;25-35;5-9;Benefícios da Cooperativa;positivo
+38;M;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;6;5;DETRATORES;36-45;5-9;Cartão de Crédito;negativo
+20;F;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;3;0;DETRATORES;<25;1-4;Pix;negativo
+18;F;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;5;6;DETRATORES;<25;5-9;Rentabilidade;negativo
+19;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;1;6;DETRATORES;<25;1-4;Tempo ou Agilidade atendimento;negativo
+36;M;ATIVO;PF;PF III;ALTÍSSIMO;DE 6 A 10 ANOS;5;3;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;neutro
+41;M;INATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;1;1;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+22;M;ATIVO;PF;PF II;MÉDIO 1;DE 1 A 2 ANOS;2;0;DETRATORES;<25;1-4;Outros;neutro
+37;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;3;3;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+35;F;ATIVO;PF;PF I;DEFAULT;DE 6 A 10 ANOS;0;0;DETRATORES;36-45;0;Disponibilidade contato;negativo
+40;F;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;4;5;DETRATORES;36-45;1-4;Funcionalidades;negativo
+22;M;ATIVO;PF;PF I;BAIXO 1;DE 6 A 10 ANOS;5;0;DETRATORES;<25;5-9;Crédito, Empréstimo ou Financiamento;negativo
+21;F;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;8;0;DETRATORES;<25;5-9;Cartão de Crédito;neutro
+40;M;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;4;5;DETRATORES;36-45;1-4;Estrutura da Agência;positivo
+18;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;4;5;DETRATORES;<25;1-4;Atendimento em geral;neutro
+26;M;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;1;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+34;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;7;4;DETRATORES;25-35;5-9;Disponibilidade contato;negativo
+46;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;4;2;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+27;F;INATIVO;PF;PF I;ALTO 2;DE 3 A 5 ANOS;1;5;DETRATORES;25-35;1-4;Tempo ou Agilidade atendimento;positivo
+23;F;ATIVO;PF;PF I;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;<25;5-9;Crédito, Empréstimo ou Financiamento;negativo
+35;M;ATIVO;PF;PF I;BAIXO 2;DE 11 A 15 ANOS;7;2;DETRATORES;36-45;5-9;Atendimento em geral;negativo
+45;M;ATIVO;AG;Familiar;BAIXO 2;DE 3 A 5 ANOS;5;5;DETRATORES;46-55;5-9;Tempo ou Agilidade atendimento;negativo
+20;F;ATIVO;PF;PF III;ALTO 2;DE 3 A 5 ANOS;12;5;DETRATORES;<25;10-14;Tempo ou Agilidade atendimento;negativo
+32;F;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;7;2;DETRATORES;25-35;5-9;Seguros;neutro
+22;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;2;5;DETRATORES;<25;1-4;Funcionalidades;negativo
+35;M;ATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;6;2;DETRATORES;36-45;5-9;Outros;neutro
+37;M;ATIVO;PF;PF III;ALTO 2;DE 3 A 5 ANOS;4;3;DETRATORES;36-45;1-4;Atendimento em geral;neutro
+35;M;INATIVO;PF;PF I;BAIXO 1;DE 11 A 15 ANOS;2;6;DETRATORES;36-45;1-4;Conta Corrente ou Poupança;negativo
+34;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;2;0;DETRATORES;25-35;1-4;Conhecimento ou qualificação do atendente;negativo
+24;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;1;0;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;negativo
+35;F;ATIVO;PF;PF II;ALTO 1;DE 6 A 10 ANOS;1;0;DETRATORES;36-45;1-4;Principalidade;negativo
+34;M;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;2;0;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+37;F;ATIVO;PF;PF I;MÉDIO 1;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Uso App;positivo
+54;F;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;4;6;DETRATORES;46-55;1-4;Outros;neutro
+32;F;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;7;6;DETRATORES;25-35;5-9;Cartão de Crédito;positivo
+37;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;3;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+33;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;6;1;DETRATORES;25-35;5-9;Funcionamento App;negativo
+45;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;3;0;DETRATORES;46-55;1-4;Taxas e Tarifas;negativo
+32;F;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;7;0;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+38;F;ATIVO;PF;PF III;ALTO 2;DE 1 A 2 ANOS;5;6;DETRATORES;36-45;5-9;Taxas e Tarifas;positivo
+33;M;ATIVO;PF;PF II;ALTO 1;DE 1 A 2 ANOS;2;1;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+20;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;2;0;DETRATORES;<25;1-4;Outros;negativo
+46;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;2;6;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;positivo
+29;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;5;0;DETRATORES;25-35;5-9;Funcionamento App;negativo
+20;F;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;2;5;DETRATORES;<25;1-4;Cartão de Crédito;negativo
+30;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 3 A 5 ANOS;1;5;DETRATORES;25-35;1-4;Principalidade;negativo
+24;F;ATIVO;AG;Familiar;MÉDIO 2;DE 1 A 2 ANOS;11;6;DETRATORES;<25;10-14;Atendimento em geral;neutro
+38;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;3;2;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+38;M;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;1;2;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;positivo
+32;M;INATIVO;PF;PF I;DEFAULT;DE 11 A 15 ANOS;0;0;DETRATORES;25-35;0;Outros;negativo
+32;M;ATIVO;PF;PF I;ALTO 2;DE 3 A 5 ANOS;5;0;DETRATORES;25-35;5-9;Outros;neutro
+36;F;ATIVO;PF;PF IV;ALTO 1;DE 1 A 2 ANOS;2;0;DETRATORES;36-45;1-4;Cordialidade;positivo
+31;M;ATIVO;AG;Familiar;BAIXÍSSIMO;DE 11 A 15 ANOS;8;0;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+37;F;ATIVO;PF;PF III;ALTO 2;DE 1 A 2 ANOS;2;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+49;F;ATIVO;PF;PF III;MÉDIO 1;ATÉ 12 MESES;5;5;DETRATORES;46-55;5-9;Funcionamento App;negativo
+31;M;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;6;5;DETRATORES;25-35;5-9;Cordialidade;negativo
+35;M;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;7;1;DETRATORES;36-45;5-9;Tempo ou Agilidade atendimento;negativo
+20;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;6;0;DETRATORES;<25;5-9;Crédito, Empréstimo ou Financiamento;neutro
+34;M;ATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;1;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+29;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;1;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+44;F;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;7;5;DETRATORES;36-45;5-9;Tempo ou Agilidade atendimento;negativo
+36;F;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;5;0;DETRATORES;36-45;5-9;Outros;negativo
+31;M;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;4;3;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+21;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;0;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+30;F;ATIVO;PF;PF I;ALTO 1;DE 11 A 15 ANOS;2;5;DETRATORES;25-35;1-4;Troca de gerente;negativo
+29;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;3;DETRATORES;25-35;1-4;Benefícios da Cooperativa;positivo
+22;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;1;0;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+25;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;3;0;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+30;M;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;4;5;DETRATORES;25-35;1-4;Cartão de Crédito;neutro
+29;M;INATIVO;PF;PF I;ALTÍSSIMO;DE 11 A 15 ANOS;0;0;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;neutro
+29;M;ATIVO;PF;PF I;BAIXO 2;DE 11 A 15 ANOS;0;5;DETRATORES;25-35;0;Funcionamento App;negativo
+29;M;ATIVO;PF;PF I;ALTO 2;DE 3 A 5 ANOS;4;6;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+22;F;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;7;5;DETRATORES;<25;5-9;Tempo ou Agilidade atendimento;positivo
+36;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;0;0;DETRATORES;36-45;0;Benefícios;negativo
+28;F;ATIVO;PF;PF I;MÉDIO 1;ATÉ 12 MESES;6;0;DETRATORES;25-35;5-9;Cartão de Crédito;neutro
+29;M;ATIVO;PF;PF I;ALTO 1;DE 6 A 10 ANOS;1;5;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+26;F;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;9;5;DETRATORES;25-35;5-9;Cordialidade;negativo
+23;M;ATIVO;PF;PF I;BAIXO 2;DE 1 A 2 ANOS;3;5;DETRATORES;<25;1-4;Cartão de Crédito;positivo
+29;F;ATIVO;PF;PF I;DEFAULT;DE 6 A 10 ANOS;2;5;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+32;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;4;5;DETRATORES;25-35;1-4;Facilidade ou Burocracia;positivo
+27;M;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;3;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+27;M;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;0;5;DETRATORES;25-35;0;Outros;neutro
+27;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;9;1;DETRATORES;25-35;5-9;Personalização e Proximidade;positivo
+54;M;INATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;0;0;DETRATORES;46-55;0;Retorno solicitações;neutro
+18;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;5;2;DETRATORES;<25;5-9;Funcionamento App;negativo
+28;M;ATIVO;PF;PF II;ALTÍSSIMO;ATÉ 12 MESES;3;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+25;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;2;2;DETRATORES;25-35;1-4;Benefícios;negativo
+32;M;ATIVO;PF;PF I;BAIXO 2;DE 1 A 2 ANOS;4;5;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+27;M;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;4;6;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+55;M;ATIVO;PF;PF II;ALTO 1;DE 1 A 2 ANOS;2;5;DETRATORES;56-70;1-4;Outros;negativo
+22;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;1;5;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;neutro
+32;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;0;0;DETRATORES;25-35;0;Funcionamento App;negativo
+22;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;4;5;DETRATORES;<25;1-4;Cartão de Crédito;negativo
+48;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;2;2;DETRATORES;46-55;1-4;Facilidade ou Burocracia;negativo
+34;F;INATIVO;PF;PF II;DEFAULT;DE 11 A 15 ANOS;0;3;DETRATORES;25-35;0;Retorno solicitações;negativo
+25;F;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;5;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+53;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 6 A 10 ANOS;1;5;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+55;F;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;4;5;DETRATORES;56-70;1-4;Crédito, Empréstimo ou Financiamento;positivo
+29;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;6;DETRATORES;25-35;1-4;Funcionamento App;negativo
+21;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;<25;1-4;Uso App;neutro
+23;F;ATIVO;PF;PF III;MÉDIO 1;DE 3 A 5 ANOS;0;0;DETRATORES;<25;0;Disponibilidade contato;negativo
+23;F;ATIVO;AG;Familiar;BAIXO 1;ATÉ 12 MESES;4;0;DETRATORES;<25;1-4;Disponibilidade contato;negativo
+31;M;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;2;3;DETRATORES;25-35;1-4;Benefícios da Cooperativa;positivo
+23;M;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;6;5;DETRATORES;<25;5-9;Outros;neutro
+34;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;6;6;DETRATORES;25-35;5-9;Rentabilidade;neutro
+28;F;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;2;6;DETRATORES;25-35;1-4;Funcionamento App;negativo
+23;F;ATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;2;0;DETRATORES;<25;1-4;Atendimento em geral;neutro
+27;M;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;5;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;positivo
+30;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;2;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+28;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+18;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;4;5;DETRATORES;<25;1-4;Cartão de Crédito;positivo
+20;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;1;3;DETRATORES;<25;1-4;Atendimento em geral;neutro
+29;F;ATIVO;PF;PF I;MÉDIO 1;ATÉ 12 MESES;1;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+33;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;8;2;DETRATORES;25-35;5-9;Outros;neutro
+32;F;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;4;0;DETRATORES;25-35;1-4;Outros;neutro
+53;M;ATIVO;PF;PF II;BAIXO 2;DE 11 A 15 ANOS;8;6;DETRATORES;46-55;5-9;Outros;neutro
+60;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;1;3;DETRATORES;56-70;1-4;Crédito, Empréstimo ou Financiamento;negativo
+20;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;6;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;negativo
+54;M;ATIVO;PF;PF III;ALTO 2;ATÉ 12 MESES;1;2;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+69;F;ATIVO;PF;PF III;BAIXO 1;DE 11 A 15 ANOS;4;5;DETRATORES;56-70;1-4;Crédito, Empréstimo ou Financiamento;neutro
+20;F;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;2;6;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+25;F;ATIVO;PF;PF II;ALTÍSSIMO;ATÉ 12 MESES;3;2;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+23;F;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;1;0;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+27;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;3;0;DETRATORES;25-35;1-4;Confiabilidade da Coop;positivo
+26;M;ATIVO;PF;PF I;;ATÉ 12 MESES;1;2;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+70;F;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;2;0;DETRATORES;70+;1-4;Crédito, Empréstimo ou Financiamento;neutro
+65;M;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;2;0;DETRATORES;56-70;1-4;Facilidade ou Burocracia;negativo
+66;M;ATIVO;PF;PF IV;MÉDIO 2;DE 11 A 15 ANOS;8;5;DETRATORES;56-70;5-9;Tempo ou Agilidade atendimento;negativo
+63;M;ATIVO;PF;PF IV;MÉDIO 1;DE 11 A 15 ANOS;7;3;DETRATORES;56-70;5-9;Estrutura da Agência;negativo
+45;M;ATIVO;PF;PF IV;DEFAULT;DE 3 A 5 ANOS;4;5;DETRATORES;46-55;1-4;Facilidade ou Burocracia;negativo
+43;M;ATIVO;PF;PF III;ALTO 1;ATÉ 12 MESES;4;0;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+43;F;INATIVO;PF;PF II;ALTO 2;DE 6 A 10 ANOS;1;5;DETRATORES;36-45;1-4;Conta Corrente ou Poupança;negativo
+63;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 6 A 10 ANOS;9;2;DETRATORES;56-70;5-9;Taxas e Tarifas;negativo
+63;M;ATIVO;AG;Grande Produtor;BAIXO 2;ATÉ 12 MESES;3;5;DETRATORES;56-70;1-4;Tempo ou Agilidade atendimento;negativo
+47;F;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 3 A 5 ANOS;6;0;DETRATORES;46-55;5-9;Cartão de Crédito;negativo
+43;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;6;4;DETRATORES;36-45;5-9;Atendimento em geral;negativo
+49;F;ATIVO;PF;PF III;ALTO 1;ATÉ 12 MESES;3;3;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+53;M;ATIVO;PF;PF II;BAIXÍSSIMO;DE 3 A 5 ANOS;3;5;DETRATORES;46-55;1-4;Atendimento em geral;neutro
+48;F;INATIVO;PF;PF I;ALTO 2;DE 3 A 5 ANOS;0;0;DETRATORES;46-55;0;Crédito, Empréstimo ou Financiamento;positivo
+52;F;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;8;1;DETRATORES;46-55;5-9;Seguros;negativo
+56;M;ATIVO;PF;PF III;MÉDIO 1;DE 1 A 2 ANOS;6;5;DETRATORES;56-70;5-9;Cartão de Crédito;negativo
+69;M;ATIVO;PF;PF I;BAIXO 1;ATÉ 12 MESES;2;5;DETRATORES;56-70;1-4;Conta Corrente ou Poupança;neutro
+70;M;ATIVO;AG;Familiar;BAIXÍSSIMO;DE 6 A 10 ANOS;6;2;DETRATORES;70+;5-9;Outros;neutro
+42;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;4;5;DETRATORES;36-45;1-4;Cartão de Crédito;negativo
+42;M;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;2;4;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+42;M;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;2;1;DETRATORES;36-45;1-4;Conta Corrente ou Poupança;negativo
+41;M;ATIVO;AG;Familiar;BAIXO 1;DE 1 A 2 ANOS;6;5;DETRATORES;36-45;5-9;Benefícios da Cooperativa;positivo
+42;F;ATIVO;PF;PF IV;BAIXO 1;DE 6 A 10 ANOS;5;5;DETRATORES;36-45;5-9;Troca de gerente;negativo
+42;M;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;5;5;DETRATORES;36-45;5-9;Confiabilidade da Coop;positivo
+40;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;7;4;DETRATORES;36-45;5-9;Atendimento em geral;neutro
+74;M;ATIVO;PF;PF III;BAIXO 2;A PARTIR DE 15 ANOS;4;6;DETRATORES;70+;1-4;Tempo ou Agilidade atendimento;positivo
+40;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Cartão de Crédito;negativo
+74;F;ATIVO;AG;Familiar;BAIXÍSSIMO;A PARTIR DE 15 ANOS;4;0;DETRATORES;70+;1-4;Retorno solicitações;negativo
+39;M;ATIVO;PF;PF III;ALTO 2;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Outros;neutro
+58;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;6;0;DETRATORES;56-70;5-9;Cordialidade;negativo
+40;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;5;DETRATORES;36-45;5-9;Funcionalidades;negativo
+55;M;ATIVO;PF;PF III;ALTÍSSIMO;DE 6 A 10 ANOS;6;5;DETRATORES;56-70;5-9;Crédito, Empréstimo ou Financiamento;neutro
+63;M;ATIVO;PF;PF III;ALTO 2;DE 6 A 10 ANOS;4;0;DETRATORES;56-70;1-4;Crédito, Empréstimo ou Financiamento;negativo
+39;F;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;2;3;DETRATORES;36-45;1-4;Taxas e Tarifas;negativo
+59;M;ATIVO;AG;Médio Produtor;DEFAULT;DE 6 A 10 ANOS;4;0;DETRATORES;56-70;1-4;Outros;negativo
+58;M;ATIVO;PF;PF IV;BAIXO 2;ATÉ 12 MESES;4;5;DETRATORES;56-70;1-4;Tempo ou Agilidade atendimento;negativo
+64;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;6;6;DETRATORES;56-70;5-9;Satisfação geral;neutro
+38;M;ATIVO;PF;PF III;ALTÍSSIMO;DE 3 A 5 ANOS;7;3;DETRATORES;36-45;5-9;Cartão de Crédito;negativo
+23;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;5;6;DETRATORES;<25;5-9;Funcionalidades;positivo
+60;M;ATIVO;PF;PF III;MÉDIO 1;DE 3 A 5 ANOS;2;5;DETRATORES;56-70;1-4;Cartão de Crédito;neutro
+37;M;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;4;2;DETRATORES;36-45;1-4;Outros;negativo
+34;M;ATIVO;PF;PF III;MÉDIO 2;DE 3 A 5 ANOS;0;3;DETRATORES;25-35;0;Personalização e Proximidade;positivo
+38;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;3;6;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+37;F;ATIVO;PF;PF IV;BAIXO 2;DE 1 A 2 ANOS;4;5;DETRATORES;36-45;1-4;Personalização e Proximidade;neutro
+38;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;6;3;DETRATORES;36-45;5-9;Taxas e Tarifas;negativo
+56;F;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;5;0;DETRATORES;56-70;5-9;Conta Corrente ou Poupança;neutro
+35;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;5;5;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;neutro
+66;M;ATIVO;PF;PF IV;BAIXO 1;ATÉ 12 MESES;5;4;DETRATORES;56-70;5-9;Conta Corrente ou Poupança;negativo
+36;F;ATIVO;PF;PF II;;ATÉ 12 MESES;3;3;DETRATORES;36-45;1-4;Taxas e Tarifas;negativo
+37;M;ATIVO;PF;PF IV;MÉDIO 1;DE 1 A 2 ANOS;3;1;DETRATORES;36-45;1-4;Outros;neutro
+58;M;ATIVO;PF;PF II;MÉDIO 2;DE 11 A 15 ANOS;8;5;DETRATORES;56-70;5-9;Cartão de Crédito;negativo
+37;F;ATIVO;PF;PF III;BAIXO 2;DE 1 A 2 ANOS;6;6;DETRATORES;36-45;5-9;Tempo ou Agilidade atendimento;positivo
+35;M;ATIVO;PF;PF III;ALTO 2;DE 6 A 10 ANOS;3;3;DETRATORES;36-45;1-4;Troca de gerente;negativo
+35;M;ATIVO;PF;PF IV;BAIXO 2;ATÉ 12 MESES;4;5;DETRATORES;36-45;1-4;Troca de gerente;negativo
+62;F;ATIVO;AG;Familiar;BAIXO 1;A PARTIR DE 15 ANOS;0;0;DETRATORES;56-70;0;Cordialidade;positivo
+58;M;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;6;5;DETRATORES;56-70;5-9;Tempo ou Agilidade atendimento;negativo
+64;F;ATIVO;PF;PF I;BAIXO 2;ATÉ 12 MESES;0;0;DETRATORES;56-70;0;Outros;negativo
+35;M;ATIVO;PF;PF II;MÉDIO 2;DE 11 A 15 ANOS;6;1;DETRATORES;36-45;5-9;Confiabilidade da Coop;positivo
+33;M;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;2;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+50;F;ATIVO;PF;PF II;MÉDIO 1;DE 1 A 2 ANOS;6;2;DETRATORES;46-55;5-9;Benefícios da Cooperativa;positivo
+30;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;2;5;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+54;M;ATIVO;PF;PF III;ALTO 2;ATÉ 12 MESES;1;2;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+52;M;ATIVO;PF;PF II;MÉDIO 2;DE 1 A 2 ANOS;2;0;DETRATORES;46-55;1-4;Cordialidade;negativo
+19;F;ATIVO;PF;PF I;BAIXO 2;ATÉ 12 MESES;3;0;DETRATORES;<25;1-4;Retorno solicitações;negativo
+30;M;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;0;5;DETRATORES;25-35;0;Facilidade ou Burocracia;positivo
+60;M;ATIVO;AG;Familiar;ALTO 2;DE 1 A 2 ANOS;6;6;DETRATORES;56-70;5-9;Facilidade ou Burocracia;positivo
+28;F;ATIVO;PF;PF III;BAIXO 1;ATÉ 12 MESES;5;4;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+26;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;2;5;DETRATORES;25-35;1-4;Disponibilidade contato;negativo
+30;M;INATIVO;PF;PF I;DEFAULT;DE 6 A 10 ANOS;0;3;DETRATORES;25-35;0;Conta Corrente ou Poupança;negativo
+59;F;ATIVO;PF;PF IV;MÉDIO 1;A PARTIR DE 15 ANOS;4;5;DETRATORES;56-70;1-4;Personalização e Proximidade;negativo
+26;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;2;2;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+27;M;ATIVO;PF;PF III;DEFAULT;DE 3 A 5 ANOS;3;6;DETRATORES;25-35;1-4;Outros;neutro
+26;F;ATIVO;PF;PF I;ALTO 2;DE 3 A 5 ANOS;4;5;DETRATORES;25-35;1-4;Cartão de Crédito;neutro
+58;M;ATIVO;PF;PF II;DEFAULT;DE 3 A 5 ANOS;1;0;DETRATORES;56-70;1-4;Cordialidade;negativo
+26;M;ATIVO;PF;PF IV;MÉDIO 1;ATÉ 12 MESES;6;6;DETRATORES;25-35;5-9;Uso App;neutro
+27;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;0;3;DETRATORES;25-35;0;Outros;neutro
+28;M;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;3;4;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+60;M;ATIVO;AG;Familiar;BAIXÍSSIMO;DE 3 A 5 ANOS;6;0;DETRATORES;56-70;5-9;Outros;neutro
+52;M;INATIVO;PF;PF IV;BAIXO 2;A PARTIR DE 15 ANOS;0;0;DETRATORES;46-55;0;Seguros;negativo
+28;M;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;4;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+49;M;ATIVO;PF;PF I;BAIXO 1;DE 6 A 10 ANOS;5;4;DETRATORES;46-55;5-9;Crédito, Empréstimo ou Financiamento;negativo
+60;M;ATIVO;PF;PF IV;BAIXO 2;DE 11 A 15 ANOS;7;5;DETRATORES;56-70;5-9;Retorno solicitações;negativo
+27;M;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;1;6;DETRATORES;25-35;1-4;Funcionalidades;negativo
+67;F;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;8;5;DETRATORES;56-70;5-9;Estrutura da Agência;negativo
+51;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;4;6;DETRATORES;46-55;1-4;Facilidade ou Burocracia;positivo
+26;F;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;0;DETRATORES;25-35;1-4;Conta Corrente ou Poupança;neutro
+59;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;8;3;DETRATORES;56-70;5-9;Crédito, Empréstimo ou Financiamento;negativo
+24;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;2;4;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;negativo
+44;M;ATIVO;PF;PF IV;ALTO 2;ATÉ 12 MESES;2;0;DETRATORES;36-45;1-4;Cartão de Crédito;neutro
+57;F;ATIVO;PF;PF IV;BAIXÍSSIMO;A PARTIR DE 15 ANOS;7;0;DETRATORES;56-70;5-9;Conhecimento ou qualificação do atendente;positivo
+56;M;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;1;5;DETRATORES;56-70;1-4;Principalidade;negativo
+45;F;INATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;1;0;DETRATORES;46-55;1-4;Disponibilidade contato;negativo
+58;M;ATIVO;PF;PF I;BAIXO 2;ATÉ 12 MESES;3;0;DETRATORES;56-70;1-4;Cartão de Crédito;negativo
+57;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;6;5;DETRATORES;56-70;5-9;Cartão de Crédito;negativo
+22;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;4;6;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;neutro
+21;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;0;DETRATORES;<25;5-9;Tempo ou Agilidade atendimento;positivo
+56;F;ATIVO;PF;PF IV;MÉDIO 2;DE 1 A 2 ANOS;6;3;DETRATORES;56-70;5-9;Outros;neutro
+50;M;ATIVO;PF;PF III;BAIXO 2;DE 1 A 2 ANOS;5;5;DETRATORES;46-55;5-9;Crédito, Empréstimo ou Financiamento;neutro
+28;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;0;2;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;positivo
+60;F;ATIVO;PF;PF IV;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;56-70;5-9;Facilidade ou Burocracia;negativo
+60;M;ATIVO;AG;Médio Produtor;BAIXÍSSIMO;A PARTIR DE 15 ANOS;17;6;DETRATORES;56-70;15+;Outros;neutro
+52;M;ATIVO;PF;PF IV;BAIXO 1;ATÉ 12 MESES;8;6;DETRATORES;46-55;5-9;Crédito, Empréstimo ou Financiamento;negativo
+54;M;ATIVO;PF;PF IV;ALTO 1;DE 3 A 5 ANOS;5;0;DETRATORES;46-55;5-9;Confiabilidade da Coop;negativo
+48;M;INATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;1;5;DETRATORES;46-55;1-4;Satisfação geral;neutro
+56;M;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;8;3;DETRATORES;56-70;5-9;Conhecimento ou qualificação do atendente;positivo
+47;M;ATIVO;PF;PF IV;DEFAULT;DE 3 A 5 ANOS;2;0;DETRATORES;46-55;1-4;Disponibilidade contato;neutro
+19;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;2;5;DETRATORES;<25;1-4;Atendimento em geral;neutro
+24;M;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;3;5;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+27;M;ATIVO;PF;PF IV;MÉDIO 2;ATÉ 12 MESES;1;0;DETRATORES;25-35;1-4;Outros;neutro
+30;M;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;3;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+58;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;2;5;DETRATORES;56-70;1-4;Facilidade ou Burocracia;negativo
+52;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;3;5;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+56;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;5;DETRATORES;56-70;1-4;Uso App;positivo
+44;F;ATIVO;PF;PF IV;BAIXO 1;DE 11 A 15 ANOS;4;5;DETRATORES;36-45;1-4;Retorno solicitações;negativo
+49;M;ATIVO;PF;PF I;BAIXO 1;DE 1 A 2 ANOS;5;6;DETRATORES;46-55;5-9;Crédito, Empréstimo ou Financiamento;negativo
+52;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;6;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+55;M;ATIVO;PF;PF I;MÉDIO 1;DE 11 A 15 ANOS;1;4;DETRATORES;56-70;1-4;Troca de gerente;neutro
+51;M;ATIVO;PF;PF II;MÉDIO 2;DE 1 A 2 ANOS;3;6;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+54;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;7;5;DETRATORES;46-55;5-9;Atendimento em geral;positivo
+55;M;ATIVO;PF;PF II;BAIXÍSSIMO;DE 1 A 2 ANOS;7;6;DETRATORES;56-70;5-9;Confiabilidade da Coop;positivo
+64;F;INATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;3;6;DETRATORES;56-70;1-4;Atendimento em geral;neutro
+45;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;5;2;DETRATORES;46-55;5-9;Facilidade ou Burocracia;negativo
+56;M;INATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;3;1;DETRATORES;56-70;1-4;Assertividade ou Orientação;negativo
+58;M;ATIVO;PF;PF I;BAIXO 2;DE 6 A 10 ANOS;5;6;DETRATORES;56-70;5-9;Satisfação geral;positivo
+44;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;5;6;DETRATORES;36-45;5-9;Cartão de Crédito;neutro
+44;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;3;3;DETRATORES;36-45;1-4;Outros;neutro
+57;F;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;4;5;DETRATORES;56-70;1-4;Crédito, Empréstimo ou Financiamento;negativo
+47;M;INATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;1;0;DETRATORES;46-55;1-4;Funcionamento App;negativo
+27;M;ATIVO;AG;Familiar;BAIXO 2;ATÉ 12 MESES;4;4;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+20;F;ATIVO;PF;PF II;MÉDIO 2;DE 1 A 2 ANOS;0;5;DETRATORES;<25;0;Outros;neutro
+29;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;2;3;DETRATORES;25-35;1-4;Outros;negativo
+60;M;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;7;6;DETRATORES;56-70;5-9;Facilidade ou Burocracia;negativo
+27;F;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;1;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+33;F;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;2;0;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+43;M;ATIVO;AG;Médio Produtor;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;36-45;5-9;Atendimento em geral;neutro
+51;F;INATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;2;4;DETRATORES;46-55;1-4;Atendimento em geral;negativo
+55;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;0;DETRATORES;56-70;5-9;Crédito, Empréstimo ou Financiamento;positivo
+47;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;7;5;DETRATORES;46-55;5-9;Facilidade ou Burocracia;positivo
+51;M;INATIVO;PF;PF IV;DEFAULT;DE 3 A 5 ANOS;1;0;DETRATORES;46-55;1-4;Facilidade ou Burocracia;negativo
+38;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;2;5;DETRATORES;36-45;1-4;Tempo ou Agilidade atendimento;positivo
+54;M;ATIVO;PF;PF IV;MÉDIO 1;ATÉ 12 MESES;3;0;DETRATORES;46-55;1-4;Atendimento em geral;positivo
+40;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;2;3;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+36;F;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;6;5;DETRATORES;36-45;5-9;Confiabilidade da Coop;negativo
+54;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 11 A 15 ANOS;6;5;DETRATORES;46-55;5-9;Confiabilidade da Coop;positivo
+42;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;3;0;DETRATORES;36-45;1-4;Confiabilidade da Coop;negativo
+54;F;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;7;0;DETRATORES;46-55;5-9;Taxas e Tarifas;negativo
+71;M;ATIVO;AG;Familiar;BAIXO 1;DE 3 A 5 ANOS;5;5;DETRATORES;70+;5-9;Atendimento em geral;neutro
+49;M;ATIVO;PF;PF IV;BAIXO 2;DE 1 A 2 ANOS;3;1;DETRATORES;46-55;1-4;Taxas e Tarifas;negativo
+40;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;6;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;positivo
+54;F;ATIVO;PF;PF III;DEFAULT;DE 6 A 10 ANOS;6;0;DETRATORES;46-55;5-9;Cartão de Crédito;negativo
+33;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;1;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+67;M;ATIVO;PF;PF II;MÉDIO 1;DE 1 A 2 ANOS;6;5;DETRATORES;56-70;5-9;Pix;neutro
+48;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;1;0;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+52;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;3;0;DETRATORES;46-55;1-4;Cartão de Crédito;neutro
+44;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;3;0;DETRATORES;36-45;1-4;Segurança;negativo
+43;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;36-45;1-4;Benefícios;positivo
+45;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;6;5;DETRATORES;46-55;5-9;Cartão de Crédito;negativo
+43;M;ATIVO;AG;Familiar;ALTO 2;DE 6 A 10 ANOS;6;5;DETRATORES;36-45;5-9;Outros;neutro
+43;M;ATIVO;AG;Familiar;BAIXO 1;DE 11 A 15 ANOS;3;6;DETRATORES;36-45;1-4;Atendimento em geral;neutro
+46;M;ATIVO;PF;PF IV;MÉDIO 2;DE 1 A 2 ANOS;3;5;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+37;F;ATIVO;AG;Familiar;BAIXO 1;DE 11 A 15 ANOS;5;5;DETRATORES;36-45;5-9;Cordialidade;positivo
+36;M;ATIVO;PF;PF IV;BAIXO 1;DE 11 A 15 ANOS;10;6;DETRATORES;36-45;10-14;Crédito, Empréstimo ou Financiamento;negativo
+52;M;ATIVO;PF;PF IV;BAIXO 1;DE 3 A 5 ANOS;2;0;DETRATORES;46-55;1-4;Atendimento em geral;negativo
+45;M;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;6;5;DETRATORES;46-55;5-9;Crédito, Empréstimo ou Financiamento;neutro
+39;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;2;0;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+52;F;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;0;3;DETRATORES;46-55;0;Outros;neutro
+26;M;ATIVO;PF;PF II;DEFAULT;DE 1 A 2 ANOS;0;1;DETRATORES;25-35;0;Pix;neutro
+27;M;ATIVO;PF;PF III;MÉDIO 2;DE 1 A 2 ANOS;3;4;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+46;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;11;6;DETRATORES;46-55;10-14;Personalização e Proximidade;negativo
+51;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;4;5;DETRATORES;46-55;1-4;Cartão de Crédito;negativo
+43;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;2;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+48;M;ATIVO;PF;PF II;MÉDIO 1;DE 11 A 15 ANOS;10;5;DETRATORES;46-55;10-14;Outros;neutro
+84;F;ATIVO;PF;PF III;BAIXO 1;DE 1 A 2 ANOS;1;5;DETRATORES;70+;1-4;Tempo ou Agilidade atendimento;positivo
+47;M;ATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;9;0;DETRATORES;46-55;5-9;Troca de gerente;negativo
+42;M;ATIVO;AG;Familiar;BAIXO 1;A PARTIR DE 15 ANOS;3;0;DETRATORES;36-45;1-4;Atendimento em geral;negativo
+47;F;ATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;4;5;DETRATORES;46-55;1-4;Assertividade ou Orientação;neutro
+46;M;ATIVO;PF;PF II;ALTO 1;DE 1 A 2 ANOS;2;0;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;positivo
+46;M;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;4;5;DETRATORES;46-55;1-4;Disponibilidade contato;positivo
+33;M;ATIVO;PF;PF III;ALTÍSSIMO;DE 1 A 2 ANOS;5;0;DETRATORES;25-35;5-9;Atendimento em geral;negativo
+43;F;ATIVO;PF;PF II;MÉDIO 2;DE 1 A 2 ANOS;4;0;DETRATORES;36-45;1-4;Principalidade;negativo
+49;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;5;5;DETRATORES;46-55;5-9;Cartão de Crédito;negativo
+43;M;ATIVO;AG;Grande Produtor;ALTO 2;DE 3 A 5 ANOS;4;6;DETRATORES;36-45;1-4;Troca de gerente;negativo
+56;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;0;0;DETRATORES;56-70;0;Tempo ou Agilidade atendimento;negativo
+41;M;ATIVO;AG;Familiar;BAIXO 1;DE 3 A 5 ANOS;6;0;DETRATORES;36-45;5-9;Cartão de Crédito;neutro
+55;M;ATIVO;PF;PF I;BAIXO 1;DE 6 A 10 ANOS;3;3;DETRATORES;56-70;1-4;Cartão de Crédito;negativo
+48;M;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;2;6;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+44;F;ATIVO;PF;PF II;MÉDIO 2;DE 1 A 2 ANOS;5;5;DETRATORES;36-45;5-9;Facilidade ou Burocracia;negativo
+45;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;1;4;DETRATORES;46-55;1-4;Cartão de Crédito;neutro
+46;F;ATIVO;AG;Médio Produtor;BAIXO 2;DE 11 A 15 ANOS;8;3;DETRATORES;46-55;5-9;Facilidade ou Burocracia;negativo
+43;M;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;5;1;DETRATORES;36-45;5-9;Funcionamento App;neutro
+50;M;ATIVO;PF;PF III;BAIXO 2;DE 1 A 2 ANOS;9;0;DETRATORES;46-55;5-9;Outros;negativo
+50;F;ATIVO;PF;PF II;BAIXÍSSIMO;DE 6 A 10 ANOS;5;0;DETRATORES;46-55;5-9;Outros;negativo
+36;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;3;0;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+42;F;ATIVO;AG;Familiar;MÉDIO 1;DE 3 A 5 ANOS;9;5;DETRATORES;36-45;5-9;Assertividade ou Orientação;negativo
+41;F;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;3;3;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+37;F;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;9;5;DETRATORES;36-45;5-9;Principalidade;neutro
+43;F;ATIVO;PF;PF II;BAIXÍSSIMO;DE 11 A 15 ANOS;7;5;DETRATORES;36-45;5-9;Outros;neutro
+35;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;6;5;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;neutro
+49;M;ATIVO;PF;PF IV;BAIXO 1;DE 1 A 2 ANOS;10;5;DETRATORES;46-55;10-14;Funcionamento App;negativo
+37;M;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;7;6;DETRATORES;36-45;5-9;Benefícios;positivo
+44;M;ATIVO;PF;PF I;BAIXO 1;A PARTIR DE 15 ANOS;1;2;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+44;F;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;6;6;DETRATORES;36-45;5-9;Retorno solicitações;negativo
+43;M;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;2;2;DETRATORES;36-45;1-4;Assertividade ou Orientação;neutro
+45;M;ATIVO;PF;PF II;MÉDIO 2;DE 1 A 2 ANOS;0;2;DETRATORES;46-55;0;Benefícios da Cooperativa;positivo
+51;M;ATIVO;PF;PF IV;MÉDIO 2;DE 1 A 2 ANOS;2;1;DETRATORES;46-55;1-4;Satisfação geral;negativo
+43;M;ATIVO;PF;PF III;BAIXO 2;DE 11 A 15 ANOS;1;1;DETRATORES;36-45;1-4;Troca de gerente;negativo
+43;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;3;1;DETRATORES;36-45;1-4;Benefícios;negativo
+79;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;0;DETRATORES;70+;1-4;Atendimento em geral;negativo
+54;M;ATIVO;AG;Familiar;BAIXO 1;DE 3 A 5 ANOS;3;1;DETRATORES;46-55;1-4;Benefícios;negativo
+40;M;ATIVO;PF;PF IV;BAIXO 1;DE 3 A 5 ANOS;5;5;DETRATORES;36-45;5-9;Outros;neutro
+40;M;ATIVO;PF;PF II;BAIXO 1;DE 11 A 15 ANOS;5;5;DETRATORES;36-45;5-9;Cordialidade;negativo
+37;M;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;3;2;DETRATORES;36-45;1-4;Outros;neutro
+42;M;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;9;5;DETRATORES;36-45;5-9;Taxas e Tarifas;positivo
+40;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;4;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+49;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;5;5;DETRATORES;46-55;5-9;Outros;neutro
+41;M;ATIVO;AG;Familiar;BAIXÍSSIMO;DE 3 A 5 ANOS;8;5;DETRATORES;36-45;5-9;Atendimento em geral;neutro
+40;F;ATIVO;AG;Familiar;BAIXO 1;A PARTIR DE 15 ANOS;6;0;DETRATORES;36-45;5-9;Disponibilidade contato;neutro
+25;M;ATIVO;PF;PF III;MÉDIO 2;DE 3 A 5 ANOS;3;2;DETRATORES;25-35;1-4;Outros;neutro
+30;F;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;3;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+40;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;1;6;DETRATORES;36-45;1-4;Atendimento em geral;negativo
+42;F;ATIVO;PF;PF II;BAIXÍSSIMO;DE 11 A 15 ANOS;8;6;DETRATORES;36-45;5-9;Personalização e Proximidade;negativo
+42;F;ATIVO;PF;PF II;BAIXO 2;DE 11 A 15 ANOS;6;5;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+42;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;0;0;DETRATORES;36-45;0;Cartão de Crédito;neutro
+52;F;ATIVO;PF;PF III;MÉDIO 2;DE 1 A 2 ANOS;7;6;DETRATORES;46-55;5-9;Assertividade ou Orientação;positivo
+42;F;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;4;0;DETRATORES;36-45;1-4;Taxas e Tarifas;negativo
+41;M;ATIVO;AG;Familiar;BAIXÍSSIMO;A PARTIR DE 15 ANOS;10;5;DETRATORES;36-45;10-14;Crédito, Empréstimo ou Financiamento;negativo
+35;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;8;6;DETRATORES;36-45;5-9;Atendimento em geral;neutro
+47;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;3;5;DETRATORES;46-55;1-4;Facilidade ou Burocracia;negativo
+42;M;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;7;6;DETRATORES;36-45;5-9;Cartão de Crédito;negativo
+39;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 6 A 10 ANOS;10;6;DETRATORES;36-45;10-14;Assertividade ou Orientação;neutro
+33;F;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;6;3;DETRATORES;25-35;5-9;Funcionamento App;negativo
+40;M;ATIVO;AG;Médio Produtor;MÉDIO 2;DE 3 A 5 ANOS;6;5;DETRATORES;36-45;5-9;Atendimento em geral;neutro
+42;M;ATIVO;PF;PF IV;MÉDIO 2;DE 1 A 2 ANOS;6;5;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;neutro
+40;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;4;0;DETRATORES;36-45;1-4;Outros;negativo
+41;F;ATIVO;PF;PF I;MÉDIO 2;DE 6 A 10 ANOS;4;5;DETRATORES;36-45;1-4;Cordialidade;positivo
+43;M;ATIVO;PF;PF II;DEFAULT;A PARTIR DE 15 ANOS;3;6;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+38;M;ATIVO;PF;PF III;BAIXO 1;A PARTIR DE 15 ANOS;7;5;DETRATORES;36-45;5-9;Taxas e Tarifas;negativo
+38;M;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;1;3;DETRATORES;36-45;1-4;Taxas e Tarifas;negativo
+43;M;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;4;6;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+39;F;ATIVO;PF;PF IV;BAIXO 1;DE 3 A 5 ANOS;3;5;DETRATORES;36-45;1-4;Atendimento em geral;negativo
+46;M;ATIVO;AG;Familiar;BAIXO 2;DE 1 A 2 ANOS;5;5;DETRATORES;46-55;5-9;Atendimento em geral;neutro
+38;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;6;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+49;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;2;0;DETRATORES;46-55;1-4;Atendimento em geral;neutro
+33;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+38;M;ATIVO;PF;PF III;BAIXO 1;DE 1 A 2 ANOS;9;0;DETRATORES;36-45;5-9;Atendimento em geral;neutro
+30;F;ATIVO;PF;PF II;BAIXÍSSIMO;DE 11 A 15 ANOS;8;4;DETRATORES;25-35;5-9;Taxas e Tarifas;negativo
+31;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;4;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+37;M;ATIVO;PF;PF IV;BAIXO 1;DE 1 A 2 ANOS;2;6;DETRATORES;36-45;1-4;Troca de gerente;negativo
+50;M;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;4;2;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+38;F;ATIVO;PF;PF IV;MÉDIO 1;ATÉ 12 MESES;7;5;DETRATORES;36-45;5-9;Facilidade ou Burocracia;negativo
+35;M;ATIVO;PF;PF II;ALTO 1;DE 1 A 2 ANOS;0;0;DETRATORES;36-45;0;Benefícios;positivo
+39;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;6;5;DETRATORES;36-45;5-9;Rentabilidade;negativo
+39;F;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;0;0;DETRATORES;36-45;0;Cordialidade;positivo
+38;M;ATIVO;PF;PF III;MÉDIO 2;DE 6 A 10 ANOS;2;0;DETRATORES;36-45;1-4;Atendimento em geral;neutro
+41;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;8;6;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+19;M;ATIVO;PF;PF I;ALTO 2;DE 11 A 15 ANOS;4;3;DETRATORES;<25;1-4;Facilidade ou Burocracia;negativo
+50;M;INATIVO;PF;PF II;BAIXO 1;DE 11 A 15 ANOS;1;5;DETRATORES;46-55;1-4;Comparação com outras IFs;neutro
+36;M;ATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;10;0;DETRATORES;36-45;10-14;Disponibilidade contato;negativo
+36;F;ATIVO;PF;PF I;MÉDIO 2;DE 11 A 15 ANOS;7;0;DETRATORES;36-45;5-9;Disponibilidade contato;neutro
+28;M;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;5;6;DETRATORES;25-35;5-9;Segurança;negativo
+39;F;ATIVO;PF;PF III;ALTÍSSIMO;DE 6 A 10 ANOS;8;0;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+31;F;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;2;3;DETRATORES;25-35;1-4;Taxas e Tarifas;positivo
+26;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;4;2;DETRATORES;25-35;1-4;Atendimento em geral;negativo
+38;M;ATIVO;PF;PF II;BAIXÍSSIMO;DE 6 A 10 ANOS;10;0;DETRATORES;36-45;10-14;Personalização e Proximidade;positivo
+29;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;1;4;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+26;F;ATIVO;PF;PF II;DEFAULT;DE 1 A 2 ANOS;1;3;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+26;F;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;3;0;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+34;M;ATIVO;AG;Familiar;BAIXÍSSIMO;DE 11 A 15 ANOS;15;0;DETRATORES;25-35;15+;Personalização e Proximidade;positivo
+34;M;ATIVO;PF;PF IV;BAIXO 2;ATÉ 12 MESES;0;0;DETRATORES;25-35;0;Cartão de Crédito;negativo
+37;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;1;6;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+40;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;1;6;DETRATORES;36-45;1-4;Taxas e Tarifas;negativo
+23;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;2;5;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+47;M;ATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;2;0;DETRATORES;46-55;1-4;Troca de gerente;negativo
+32;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;2;DETRATORES;25-35;5-9;Outros;negativo
+38;M;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;11;4;DETRATORES;36-45;10-14;Principalidade;positivo
+24;F;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;8;0;DETRATORES;<25;5-9;Cartão de Crédito;negativo
+30;M;ATIVO;PF;PF II;BAIXO 1;DE 11 A 15 ANOS;4;5;DETRATORES;25-35;1-4;Tempo ou Agilidade atendimento;positivo
+46;F;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;5;6;DETRATORES;46-55;5-9;Satisfação geral;positivo
+36;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;2;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+80;M;ATIVO;AG;Familiar;BAIXÍSSIMO;A PARTIR DE 15 ANOS;7;5;DETRATORES;70+;5-9;Facilidade ou Burocracia;negativo
+34;F;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;5;6;DETRATORES;25-35;5-9;Outros;neutro
+45;F;ATIVO;PF;PF I;BAIXO 2;ATÉ 12 MESES;3;3;DETRATORES;46-55;1-4;Conta Corrente ou Poupança;negativo
+62;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;5;5;DETRATORES;56-70;5-9;Disponibilidade contato;positivo
+21;M;ATIVO;PF;PF I;DEFAULT;A PARTIR DE 15 ANOS;3;0;DETRATORES;<25;1-4;Facilidade ou Burocracia;negativo
+31;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;6;4;DETRATORES;25-35;5-9;Troca de gerente;neutro
+37;F;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;3;5;DETRATORES;36-45;1-4;Cartão de Crédito;neutro
+44;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 3 A 5 ANOS;6;5;DETRATORES;36-45;5-9;Troca de gerente;negativo
+31;F;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;2;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+45;M;ATIVO;AG;Grande Produtor;BAIXÍSSIMO;DE 6 A 10 ANOS;13;5;DETRATORES;46-55;10-14;Crédito, Empréstimo ou Financiamento;negativo
+60;M;ATIVO;AG;Médio Produtor;BAIXO 2;ATÉ 12 MESES;2;6;DETRATORES;56-70;1-4;Cordialidade;negativo
+54;M;ATIVO;AG;Médio Produtor;MÉDIO 1;DE 1 A 2 ANOS;2;2;DETRATORES;46-55;1-4;Conhecimento ou qualificação do atendente;negativo
+37;F;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;5;2;DETRATORES;36-45;5-9;Tempo ou Agilidade atendimento;negativo
+21;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Taxas e Tarifas;positivo
+36;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;1;4;DETRATORES;36-45;1-4;Outros;negativo
+33;M;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;8;0;DETRATORES;25-35;5-9;Tempo ou Agilidade atendimento;positivo
+45;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;1;1;DETRATORES;46-55;1-4;Rentabilidade;positivo
+49;M;ATIVO;PF;PF III;ALTO 2;ATÉ 12 MESES;6;3;DETRATORES;46-55;5-9;Confiabilidade da Coop;positivo
+32;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;5;5;DETRATORES;25-35;5-9;Outros;neutro
+32;F;ATIVO;PF;PF I;MÉDIO 1;DE 6 A 10 ANOS;9;3;DETRATORES;25-35;5-9;Cordialidade;positivo
+45;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;6;DETRATORES;46-55;5-9;Estrutura da Agência;negativo
+31;M;ATIVO;PF;PF II;MÉDIO 2;DE 11 A 15 ANOS;8;3;DETRATORES;25-35;5-9;Outros;negativo
+49;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;6;3;DETRATORES;46-55;5-9;Cartão de Crédito;neutro
+49;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;6;DETRATORES;46-55;5-9;Crédito, Empréstimo ou Financiamento;neutro
+31;F;ATIVO;AG;Familiar;ALTO 1;DE 1 A 2 ANOS;3;2;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+44;M;ATIVO;PF;PF III;BAIXÍSSIMO;A PARTIR DE 15 ANOS;9;0;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+51;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;1;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+52;M;ATIVO;PF;PF II;BAIXÍSSIMO;DE 3 A 5 ANOS;10;2;DETRATORES;46-55;10-14;Outros;neutro
+48;F;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;2;6;DETRATORES;46-55;1-4;Personalização e Proximidade;positivo
+22;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;10;5;DETRATORES;<25;10-14;Atendimento em geral;negativo
+29;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;0;3;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;neutro
+39;M;ATIVO;PF;PF II;ALTO 2;DE 11 A 15 ANOS;6;2;DETRATORES;36-45;5-9;Taxas e Tarifas;negativo
+35;M;ATIVO;PF;PF III;BAIXO 1;ATÉ 12 MESES;8;6;DETRATORES;36-45;5-9;Cartão de Crédito;neutro
+34;F;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;4;6;DETRATORES;25-35;1-4;Pix;negativo
+26;F;ATIVO;PF;PF I;DEFAULT;DE 11 A 15 ANOS;3;5;DETRATORES;25-35;1-4;Benefícios;neutro
+30;M;ATIVO;PF;PF II;MÉDIO 1;DE 11 A 15 ANOS;10;6;DETRATORES;25-35;10-14;Atendimento em geral;neutro
+37;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;2;0;DETRATORES;36-45;1-4;Uso App;negativo
+32;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;4;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+25;M;ATIVO;PF;PF IV;MÉDIO 1;DE 3 A 5 ANOS;2;2;DETRATORES;25-35;1-4;Outros;neutro
+35;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;2;0;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+30;F;ATIVO;PF;PF II;ALTO 1;DE 3 A 5 ANOS;8;0;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+43;F;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;4;4;DETRATORES;36-45;1-4;Disponibilidade contato;positivo
+32;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;2;4;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+30;F;INATIVO;PF;PF III;MÉDIO 1;DE 3 A 5 ANOS;0;0;DETRATORES;25-35;0;Cordialidade;positivo
+33;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+34;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;5;3;DETRATORES;25-35;5-9;Benefícios;negativo
+29;M;ATIVO;PF;PF IV;BAIXO 2;DE 1 A 2 ANOS;4;0;DETRATORES;25-35;1-4;Taxas e Tarifas;positivo
+32;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;2;0;DETRATORES;25-35;1-4;Cartão de Crédito;neutro
+31;M;ATIVO;AG;Familiar;BAIXO 2;DE 11 A 15 ANOS;2;5;DETRATORES;25-35;1-4;Conta Corrente ou Poupança;negativo
+31;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;1;5;DETRATORES;25-35;1-4;Outros;negativo
+20;M;ATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;0;0;DETRATORES;<25;0;Facilidade ou Burocracia;negativo
+62;M;ATIVO;PF;PF IV;MÉDIO 2;DE 3 A 5 ANOS;3;5;DETRATORES;56-70;1-4;Crédito, Empréstimo ou Financiamento;positivo
+29;M;ATIVO;PF;PF II;DEFAULT;DE 6 A 10 ANOS;3;5;DETRATORES;25-35;1-4;Tempo ou Agilidade atendimento;negativo
+33;F;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;5;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+46;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;4;4;DETRATORES;46-55;1-4;Atendimento em geral;neutro
+30;M;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;7;5;DETRATORES;25-35;5-9;Cartão de Crédito;negativo
+42;M;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;8;3;DETRATORES;36-45;5-9;Tempo ou Agilidade atendimento;positivo
+25;M;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;3;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+35;M;INATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;0;3;DETRATORES;36-45;0;Cartão de Crédito;negativo
+42;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;7;2;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+26;M;ATIVO;PF;PF I;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;positivo
+27;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;2;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+25;M;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;3;5;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+28;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;2;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+19;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;5;6;DETRATORES;<25;5-9;Cartão de Crédito;neutro
+26;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;5;5;DETRATORES;25-35;5-9;Cartão de Crédito;neutro
+32;M;INATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;0;0;DETRATORES;25-35;0;Conta Corrente ou Poupança;negativo
+34;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;3;4;DETRATORES;25-35;1-4;Cartão de Crédito;neutro
+34;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;3;0;DETRATORES;25-35;1-4;Benefícios;negativo
+27;M;INATIVO;PF;PF I;ALTÍSSIMO;DE 1 A 2 ANOS;2;1;DETRATORES;25-35;1-4;Pix;negativo
+40;M;INATIVO;PF;PF II;BAIXO 2;DE 11 A 15 ANOS;0;4;DETRATORES;36-45;0;Atendimento em geral;negativo
+33;M;ATIVO;PF;PF III;DEFAULT;DE 6 A 10 ANOS;5;4;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+42;M;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;10;0;DETRATORES;36-45;10-14;Outros;neutro
+39;M;ATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;0;5;DETRATORES;36-45;0;Tempo ou Agilidade atendimento;negativo
+32;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;1;DETRATORES;25-35;1-4;Facilidade ou Burocracia;positivo
+23;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Taxas e Tarifas;negativo
+28;M;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;4;0;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+39;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;3;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+43;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;2;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+25;F;ATIVO;PF;PF II;ALTO 1;DE 3 A 5 ANOS;2;5;DETRATORES;25-35;1-4;Cartão de Crédito;positivo
+20;F;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;4;6;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+18;M;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;5;6;DETRATORES;<25;5-9;Cartão de Crédito;neutro
+39;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;2;5;DETRATORES;36-45;1-4;Disponibilidade contato;negativo
+21;M;ATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Retorno solicitações;negativo
+43;M;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;3;0;DETRATORES;36-45;1-4;Assertividade ou Orientação;negativo
+32;M;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;5;2;DETRATORES;25-35;5-9;Cartão de Crédito;neutro
+32;M;INATIVO;PF;PF II;MÉDIO 2;DE 11 A 15 ANOS;0;5;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;neutro
+38;M;ATIVO;PF;PF II;BAIXO 2;DE 11 A 15 ANOS;3;6;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+25;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;2;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+39;F;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;10;5;DETRATORES;36-45;10-14;Taxas e Tarifas;negativo
+31;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;1;0;DETRATORES;25-35;1-4;Facilidade ou Burocracia;positivo
+24;F;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;4;5;DETRATORES;<25;1-4;Assertividade ou Orientação;negativo
+40;F;ATIVO;PF;PF I;BAIXO 2;DE 1 A 2 ANOS;4;5;DETRATORES;36-45;1-4;Disponibilidade contato;negativo
+25;M;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;2;2;DETRATORES;25-35;1-4;Taxas e Tarifas;neutro
+42;F;ATIVO;AG;Familiar;MÉDIO 1;DE 11 A 15 ANOS;4;1;DETRATORES;36-45;1-4;Atendimento em geral;neutro
+30;M;ATIVO;PF;PF IV;BAIXO 2;DE 6 A 10 ANOS;8;6;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+38;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;8;4;DETRATORES;36-45;5-9;Funcionamento App;negativo
+41;M;ATIVO;PF;PF II;;ATÉ 12 MESES;1;0;DETRATORES;36-45;1-4;Cartão de Crédito;neutro
+46;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;5;6;DETRATORES;46-55;5-9;Funcionamento App;positivo
+34;M;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;1;5;DETRATORES;25-35;1-4;Disponibilidade contato;negativo
+30;F;ATIVO;PF;PF III;ALTO 1;ATÉ 12 MESES;2;0;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+40;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;5;5;DETRATORES;36-45;5-9;Benefícios da Cooperativa;positivo
+30;F;ATIVO;PF;PF I;ALTO 2;DE 3 A 5 ANOS;3;5;DETRATORES;25-35;1-4;Outros;neutro
+39;M;ATIVO;PF;PF III;MÉDIO 2;DE 11 A 15 ANOS;4;6;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+44;F;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;4;6;DETRATORES;36-45;1-4;Cartão de Crédito;negativo
+31;M;INATIVO;PF;PF II;ALTÍSSIMO;ATÉ 12 MESES;1;3;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+41;M;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;2;0;DETRATORES;36-45;1-4;Outros;negativo
+33;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;3;5;DETRATORES;25-35;1-4;Outros;neutro
+39;F;ATIVO;PF;PF II;MÉDIO 2;DE 11 A 15 ANOS;5;5;DETRATORES;36-45;5-9;Cartão de Crédito;neutro
+30;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;0;1;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;neutro
+27;F;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;5;5;DETRATORES;25-35;5-9;Taxas e Tarifas;negativo
+41;F;ATIVO;PF;PF III;DEFAULT;DE 3 A 5 ANOS;5;2;DETRATORES;36-45;5-9;Facilidade ou Burocracia;negativo
+27;F;ATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;3;0;DETRATORES;25-35;1-4;Outros;negativo
+46;F;ATIVO;PF;PF II;MÉDIO 2;DE 11 A 15 ANOS;11;5;DETRATORES;46-55;10-14;Taxas e Tarifas;negativo
+19;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;4;0;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;positivo
+29;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;0;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+41;M;ATIVO;AG;Familiar;MÉDIO 1;ATÉ 12 MESES;3;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+35;F;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;6;DETRATORES;36-45;5-9;Uso App;negativo
+23;M;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;neutro
+22;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;7;0;DETRATORES;<25;5-9;Cordialidade;negativo
+47;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;3;6;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+36;F;ATIVO;PF;PF II;ALTÍSSIMO;DE 6 A 10 ANOS;6;5;DETRATORES;36-45;5-9;Cartão de Crédito;negativo
+23;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;4;5;DETRATORES;<25;1-4;Facilidade ou Burocracia;negativo
+39;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;8;5;DETRATORES;36-45;5-9;Facilidade ou Burocracia;negativo
+20;F;ATIVO;PF;PF I;ALTO 2;DE 3 A 5 ANOS;3;0;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+19;F;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;2;4;DETRATORES;<25;1-4;Cartão de Crédito;neutro
+38;M;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;6;0;DETRATORES;36-45;5-9;Cartão de Crédito;neutro
+23;M;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;0;2;DETRATORES;<25;0;Conta Corrente ou Poupança;negativo
+18;F;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;0;5;DETRATORES;<25;0;Taxas e Tarifas;negativo
+36;F;ATIVO;PF;PF II;ALTO 1;DE 1 A 2 ANOS;2;3;DETRATORES;36-45;1-4;Tempo ou Agilidade atendimento;positivo
+38;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;4;5;DETRATORES;36-45;1-4;Atendimento em geral;negativo
+20;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 3 A 5 ANOS;2;4;DETRATORES;<25;1-4;Conta Corrente ou Poupança;neutro
+29;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;2;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+31;F;ATIVO;PF;PF III;BAIXO 2;DE 1 A 2 ANOS;7;6;DETRATORES;25-35;5-9;Rentabilidade;neutro
+41;M;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;3;1;DETRATORES;36-45;1-4;Cartão de Crédito;negativo
+31;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;3;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+31;M;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;0;6;DETRATORES;25-35;0;Confiabilidade da Coop;negativo
+34;M;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;3;0;DETRATORES;25-35;1-4;Taxas e Tarifas;neutro
+38;M;ATIVO;PF;PF III;BAIXO 1;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Assertividade ou Orientação;negativo
+41;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;5;5;DETRATORES;36-45;5-9;Funcionalidades;negativo
+30;M;ATIVO;PF;PF II;MÉDIO 1;ATÉ 12 MESES;3;1;DETRATORES;25-35;1-4;Cartão de Crédito;negativo
+24;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;2;DETRATORES;<25;1-4;Taxas e Tarifas;negativo
+35;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;0;4;DETRATORES;36-45;0;Crédito, Empréstimo ou Financiamento;negativo
+61;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;4;6;DETRATORES;56-70;1-4;Outros;neutro
+36;F;ATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;7;5;DETRATORES;36-45;5-9;Tempo ou Agilidade atendimento;negativo
+28;M;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;7;5;DETRATORES;25-35;5-9;Tempo ou Agilidade atendimento;negativo
+38;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;1;2;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+22;M;ATIVO;PF;PF IV;DEFAULT;DE 3 A 5 ANOS;5;5;DETRATORES;<25;5-9;Troca de gerente;neutro
+35;M;ATIVO;AG;Familiar;DEFAULT;DE 6 A 10 ANOS;0;0;DETRATORES;36-45;0;Crédito, Empréstimo ou Financiamento;positivo
+36;F;INATIVO;PF;PF I;DEFAULT;DE 6 A 10 ANOS;0;4;DETRATORES;36-45;0;Outros;neutro
+35;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 1 A 2 ANOS;3;0;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+22;F;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;3;5;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;positivo
+19;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;0;1;DETRATORES;<25;0;Uso App;negativo
+19;M;ATIVO;PF;PF I;MÉDIO 1;DE 6 A 10 ANOS;8;5;DETRATORES;<25;5-9;Cartão de Crédito;negativo
+33;M;ATIVO;PF;PF IV;BAIXO 1;DE 11 A 15 ANOS;6;5;DETRATORES;25-35;5-9;Taxas e Tarifas;negativo
+35;M;ATIVO;AG;Familiar;MÉDIO 1;DE 11 A 15 ANOS;11;6;DETRATORES;36-45;10-14;Atendimento em geral;negativo
+35;M;ATIVO;PF;PF III;DEFAULT;DE 11 A 15 ANOS;0;0;DETRATORES;36-45;0;Cordialidade;negativo
+35;M;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;6;0;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+37;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;5;2;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;neutro
+27;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;5;DETRATORES;25-35;1-4;Conta Corrente ou Poupança;neutro
+51;M;ATIVO;PF;PF IV;BAIXO 2;ATÉ 12 MESES;4;5;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;neutro
+28;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 1 A 2 ANOS;1;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+31;M;ATIVO;PF;PF II;ALTO 2;DE 11 A 15 ANOS;2;0;DETRATORES;25-35;1-4;Conhecimento ou qualificação do atendente;positivo
+31;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;7;0;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;positivo
+33;F;ATIVO;PF;PF I;MÉDIO 2;DE 11 A 15 ANOS;7;5;DETRATORES;25-35;5-9;Outros;neutro
+20;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;5;0;DETRATORES;<25;5-9;Benefícios da Cooperativa;positivo
+48;M;ATIVO;AG;Familiar;MÉDIO 1;ATÉ 12 MESES;0;6;DETRATORES;46-55;0;Atendimento em geral;neutro
+36;M;ATIVO;PF;PF IV;ALTÍSSIMO;DE 3 A 5 ANOS;3;5;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+38;M;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+22;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;0;3;DETRATORES;<25;0;Crédito, Empréstimo ou Financiamento;positivo
+37;F;ATIVO;PF;PF II;MÉDIO 1;DE 1 A 2 ANOS;2;5;DETRATORES;36-45;1-4;Taxas e Tarifas;negativo
+30;F;ATIVO;PF;PF I;BAIXO 2;ATÉ 12 MESES;5;6;DETRATORES;25-35;5-9;Facilidade ou Burocracia;positivo
+56;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;2;4;DETRATORES;56-70;1-4;Benefícios;negativo
+35;M;ATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;3;6;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+21;M;ATIVO;AG;Familiar;MÉDIO 2;ATÉ 12 MESES;2;0;DETRATORES;<25;1-4;Outros;neutro
+30;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;7;6;DETRATORES;25-35;5-9;Funcionamento App;negativo
+26;F;ATIVO;PF;PF I;MÉDIO 2;DE 6 A 10 ANOS;7;2;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+22;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;5;DETRATORES;<25;1-4;Cartão de Crédito;negativo
+41;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;2;0;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;neutro
+74;M;ATIVO;PF;PF III;BAIXÍSSIMO;A PARTIR DE 15 ANOS;5;5;DETRATORES;70+;5-9;Seguros;negativo
+40;M;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;5;0;DETRATORES;36-45;5-9;Outros;neutro
+26;F;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;6;0;DETRATORES;25-35;5-9;Troca de gerente;negativo
+32;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;1;1;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+28;M;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;6;6;DETRATORES;25-35;5-9;Cartão de Crédito;neutro
+29;M;ATIVO;AG;Familiar;MÉDIO 1;DE 6 A 10 ANOS;3;0;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+19;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;3;5;DETRATORES;<25;1-4;Conta Corrente ou Poupança;positivo
+33;M;ATIVO;AG;Familiar;BAIXO 1;ATÉ 12 MESES;9;0;DETRATORES;25-35;5-9;Cordialidade;negativo
+43;M;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;3;0;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+42;F;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;4;5;DETRATORES;36-45;1-4;Pix;negativo
+40;M;ATIVO;AG;Familiar;MÉDIO 1;A PARTIR DE 15 ANOS;1;5;DETRATORES;36-45;1-4;Atendimento em geral;negativo
+42;M;ATIVO;PF;PF III;ALTÍSSIMO;DE 3 A 5 ANOS;1;5;DETRATORES;36-45;1-4;Uso App;negativo
+28;F;ATIVO;PF;PF I;MÉDIO 1;ATÉ 12 MESES;5;6;DETRATORES;25-35;5-9;Satisfação geral;positivo
+38;M;ATIVO;AG;Familiar;BAIXÍSSIMO;A PARTIR DE 15 ANOS;8;6;DETRATORES;36-45;5-9;Outros;neutro
+37;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;6;2;DETRATORES;36-45;5-9;Cordialidade;negativo
+38;F;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;7;0;DETRATORES;36-45;5-9;Benefícios;negativo
+34;F;ATIVO;PF;PF II;ALTO 1;DE 3 A 5 ANOS;4;4;DETRATORES;25-35;1-4;Conta Corrente ou Poupança;negativo
+37;F;ATIVO;PF;PF I;BAIXO 2;DE 11 A 15 ANOS;9;6;DETRATORES;36-45;5-9;Uso App;negativo
+37;M;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;5;3;DETRATORES;36-45;5-9;Cartão de Crédito;negativo
+30;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;5;3;DETRATORES;25-35;5-9;Atendimento em geral;neutro
+34;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;4;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+28;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;2;0;DETRATORES;25-35;1-4;Disponibilidade contato;negativo
+35;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;5;6;DETRATORES;36-45;5-9;Funcionamento App;negativo
+49;M;ATIVO;PF;PF III;BAIXÍSSIMO;A PARTIR DE 15 ANOS;8;3;DETRATORES;46-55;5-9;Rentabilidade;negativo
+38;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;3;DETRATORES;36-45;1-4;Troca de gerente;negativo
+31;M;ATIVO;PF;PF IV;MÉDIO 2;DE 3 A 5 ANOS;4;3;DETRATORES;25-35;1-4;Seguros;negativo
+27;M;ATIVO;PF;PF III;MÉDIO 2;DE 3 A 5 ANOS;7;5;DETRATORES;25-35;5-9;Funcionamento App;negativo
+28;M;ATIVO;PF;PF III;MÉDIO 1;DE 11 A 15 ANOS;6;5;DETRATORES;25-35;5-9;Tempo ou Agilidade atendimento;positivo
+33;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;3;6;DETRATORES;25-35;1-4;Uso App;negativo
+28;M;ATIVO;AG;Familiar;ALTO 1;A PARTIR DE 15 ANOS;1;0;DETRATORES;25-35;1-4;Atendimento em geral;neutro
+29;F;ATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;25-35;5-9;Comparação com outras IFs;negativo
+36;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;5;4;DETRATORES;36-45;5-9;Uso App;positivo
+25;F;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;4;6;DETRATORES;25-35;1-4;Funcionamento App;negativo
+28;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;6;DETRATORES;25-35;5-9;Pix;negativo
+27;M;ATIVO;AG;Familiar;BAIXO 2;DE 6 A 10 ANOS;5;1;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;neutro
+37;F;ATIVO;PF;PF II;ALTÍSSIMO;DE 1 A 2 ANOS;2;0;DETRATORES;36-45;1-4;Outros;neutro
+43;M;ATIVO;PF;PF III;MÉDIO 1;DE 11 A 15 ANOS;8;5;DETRATORES;36-45;5-9;Benefícios;negativo
+42;M;ATIVO;PF;PF IV;ALTÍSSIMO;DE 6 A 10 ANOS;4;1;DETRATORES;36-45;1-4;Atendimento em geral;positivo
+45;M;ATIVO;AG;Médio Produtor;BAIXO 2;ATÉ 12 MESES;4;6;DETRATORES;46-55;1-4;Facilidade ou Burocracia;negativo
+30;F;ATIVO;PF;PF III;DEFAULT;DE 11 A 15 ANOS;2;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+47;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 6 A 10 ANOS;8;0;DETRATORES;46-55;5-9;Cordialidade;negativo
+25;F;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;2;5;DETRATORES;25-35;1-4;Funcionamento App;negativo
+28;F;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;7;5;DETRATORES;25-35;5-9;Confiabilidade da Coop;positivo
+26;F;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;3;6;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+27;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;3;6;DETRATORES;25-35;1-4;Benefícios;positivo
+19;M;ATIVO;PF;PF I;BAIXO 2;DE 6 A 10 ANOS;2;3;DETRATORES;<25;1-4;Atendimento em geral;neutro
+43;M;ATIVO;PF;PF II;BAIXÍSSIMO;DE 3 A 5 ANOS;4;2;DETRATORES;36-45;1-4;Funcionamento App;negativo
+44;M;ATIVO;AG;Familiar;MÉDIO 1;DE 6 A 10 ANOS;9;1;DETRATORES;36-45;5-9;Atendimento em geral;negativo
+25;M;ATIVO;PF;PF II;MÉDIO 2;DE 6 A 10 ANOS;4;5;DETRATORES;25-35;1-4;Uso App;negativo
+37;F;ATIVO;PF;PF I;MÉDIO 1;ATÉ 12 MESES;0;2;DETRATORES;36-45;0;Disponibilidade contato;negativo
+31;F;ATIVO;PF;PF IV;MÉDIO 1;ATÉ 12 MESES;4;0;DETRATORES;25-35;1-4;Seguros;negativo
+39;M;ATIVO;AG;Médio Produtor;MÉDIO 2;DE 6 A 10 ANOS;4;4;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+40;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;4;2;DETRATORES;36-45;1-4;Funcionamento App;negativo
+19;M;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Pix;negativo
+19;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;4;3;DETRATORES;<25;1-4;Cartão de Crédito;negativo
+36;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;3;6;DETRATORES;36-45;1-4;Tempo ou Agilidade atendimento;positivo
+31;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;3;0;DETRATORES;25-35;1-4;Benefícios da Cooperativa;negativo
+38;M;ATIVO;PF;PF III;BAIXO 1;DE 11 A 15 ANOS;4;3;DETRATORES;36-45;1-4;Cordialidade;negativo
+20;M;ATIVO;AG;Familiar;DEFAULT;DE 3 A 5 ANOS;1;3;DETRATORES;<25;1-4;Funcionamento App;negativo
+39;M;INATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;1;4;DETRATORES;36-45;1-4;Uso App;negativo
+18;F;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;5;6;DETRATORES;<25;5-9;Facilidade ou Burocracia;negativo
+40;F;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;4;5;DETRATORES;36-45;1-4;Segurança;negativo
+22;M;ATIVO;PF;PF I;BAIXO 1;DE 6 A 10 ANOS;5;0;DETRATORES;<25;5-9;Facilidade ou Burocracia;negativo
+23;F;ATIVO;PF;PF I;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;<25;5-9;Facilidade ou Burocracia;negativo
+35;M;ATIVO;PF;PF I;BAIXO 2;DE 11 A 15 ANOS;7;2;DETRATORES;36-45;5-9;Facilidade ou Burocracia;negativo
+22;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;2;5;DETRATORES;<25;1-4;Funcionamento App;negativo
+35;M;INATIVO;PF;PF I;BAIXO 1;DE 11 A 15 ANOS;2;6;DETRATORES;36-45;1-4;Benefícios;negativo
+34;M;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;2;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+33;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;6;1;DETRATORES;25-35;5-9;Tempo ou Agilidade atendimento;negativo
+45;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;3;0;DETRATORES;46-55;1-4;Facilidade ou Burocracia;negativo
+32;F;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;7;0;DETRATORES;25-35;5-9;Cartão de Crédito;negativo
+38;F;ATIVO;PF;PF III;ALTO 2;DE 1 A 2 ANOS;5;6;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+33;M;ATIVO;PF;PF II;ALTO 1;DE 1 A 2 ANOS;2;1;DETRATORES;25-35;1-4;Funcionamento App;negativo
+36;F;ATIVO;PF;PF IV;ALTO 1;DE 1 A 2 ANOS;2;0;DETRATORES;36-45;1-4;Personalização e Proximidade;positivo
+49;F;ATIVO;PF;PF III;MÉDIO 1;ATÉ 12 MESES;5;5;DETRATORES;46-55;5-9;Uso App;negativo
+31;M;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;6;5;DETRATORES;25-35;5-9;Disponibilidade contato;negativo
+31;M;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;4;3;DETRATORES;25-35;1-4;Atendimento em geral;negativo
+30;F;ATIVO;PF;PF I;ALTO 1;DE 11 A 15 ANOS;2;5;DETRATORES;25-35;1-4;Cordialidade;negativo
+29;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;3;DETRATORES;25-35;1-4;Benefícios;positivo
+36;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;0;0;DETRATORES;36-45;0;Outros;neutro
+26;F;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;9;5;DETRATORES;25-35;5-9;Atendimento em geral;negativo
+29;F;ATIVO;PF;PF I;DEFAULT;DE 6 A 10 ANOS;2;5;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+27;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;9;1;DETRATORES;25-35;5-9;Segurança;negativo
+25;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;2;2;DETRATORES;25-35;1-4;Rentabilidade;negativo
+32;M;ATIVO;PF;PF I;BAIXO 2;DE 1 A 2 ANOS;4;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+32;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;0;0;DETRATORES;25-35;0;Uso App;negativo
+48;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;2;2;DETRATORES;46-55;1-4;Conta Corrente ou Poupança;negativo
+34;F;INATIVO;PF;PF II;DEFAULT;DE 11 A 15 ANOS;0;3;DETRATORES;25-35;0;Atendimento em geral;negativo
+29;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;6;DETRATORES;25-35;1-4;Uso App;neutro
+23;F;ATIVO;PF;PF III;MÉDIO 1;DE 3 A 5 ANOS;0;0;DETRATORES;<25;0;Retorno solicitações;negativo
+28;F;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;2;6;DETRATORES;25-35;1-4;Uso App;neutro
+23;F;ATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;2;0;DETRATORES;<25;1-4;Disponibilidade contato;neutro
+30;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;2;DETRATORES;25-35;1-4;Principalidade;negativo
+28;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;25-35;1-4;Taxas e Tarifas;negativo
+20;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;1;3;DETRATORES;<25;1-4;Outros;neutro
+60;M;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;1;3;DETRATORES;56-70;1-4;Cartão de Crédito;negativo
+63;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 6 A 10 ANOS;9;2;DETRATORES;56-70;5-9;Crédito, Empréstimo ou Financiamento;negativo
+63;M;ATIVO;AG;Grande Produtor;BAIXO 2;ATÉ 12 MESES;3;5;DETRATORES;56-70;1-4;Facilidade ou Burocracia;negativo
+43;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;6;4;DETRATORES;36-45;5-9;Cordialidade;negativo
+49;F;ATIVO;PF;PF III;ALTO 1;ATÉ 12 MESES;3;3;DETRATORES;46-55;1-4;Satisfação geral;negativo
+40;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Comparação com outras IFs;negativo
+58;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;6;0;DETRATORES;56-70;5-9;Atendimento em geral;negativo
+40;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;5;DETRATORES;36-45;5-9;Uso App;negativo
+39;F;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;2;3;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+58;M;ATIVO;PF;PF IV;BAIXO 2;ATÉ 12 MESES;4;5;DETRATORES;56-70;1-4;Retorno solicitações;negativo
+23;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;5;6;DETRATORES;<25;5-9;Rentabilidade;positivo
+66;M;ATIVO;PF;PF IV;BAIXO 1;ATÉ 12 MESES;5;4;DETRATORES;56-70;5-9;Benefícios;negativo
+36;F;ATIVO;PF;PF II;;ATÉ 12 MESES;3;3;DETRATORES;36-45;1-4;Cartão de Crédito;negativo
+37;F;ATIVO;PF;PF III;BAIXO 2;DE 1 A 2 ANOS;6;6;DETRATORES;36-45;5-9;WhatsApp;positivo
+35;M;ATIVO;PF;PF IV;BAIXO 2;ATÉ 12 MESES;4;5;DETRATORES;36-45;1-4;Disponibilidade contato;negativo
+62;F;ATIVO;AG;Familiar;BAIXO 1;A PARTIR DE 15 ANOS;0;0;DETRATORES;56-70;0;Tempo ou Agilidade atendimento;positivo
+58;M;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;6;5;DETRATORES;56-70;5-9;Retorno solicitações;negativo
+19;F;ATIVO;PF;PF I;BAIXO 2;ATÉ 12 MESES;3;0;DETRATORES;<25;1-4;Conta Corrente ou Poupança;negativo
+30;M;ATIVO;PF;PF I;ALTÍSSIMO;ATÉ 12 MESES;0;5;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;positivo
+26;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;2;5;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+26;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;2;2;DETRATORES;25-35;1-4;Benefícios;negativo
+58;M;ATIVO;PF;PF II;DEFAULT;DE 3 A 5 ANOS;1;0;DETRATORES;56-70;1-4;Conhecimento ou qualificação do atendente;negativo
+52;M;INATIVO;PF;PF IV;BAIXO 2;A PARTIR DE 15 ANOS;0;0;DETRATORES;46-55;0;Satisfação geral;negativo
+60;M;ATIVO;PF;PF IV;BAIXO 2;DE 11 A 15 ANOS;7;5;DETRATORES;56-70;5-9;Disponibilidade contato;negativo
+27;M;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;1;6;DETRATORES;25-35;1-4;Uso App;negativo
+51;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;4;6;DETRATORES;46-55;1-4;Personalização e Proximidade;positivo
+59;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;8;3;DETRATORES;56-70;5-9;Cartão de Crédito;negativo
+45;F;INATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;1;0;DETRATORES;46-55;1-4;Cordialidade;negativo
+57;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;6;5;DETRATORES;56-70;5-9;Comparação com outras IFs;negativo
+21;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;0;DETRATORES;<25;5-9;Retorno solicitações;negativo
+60;F;ATIVO;PF;PF IV;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;56-70;5-9;Atendimento em geral;negativo
+56;M;ATIVO;PF;PF III;BAIXO 1;DE 6 A 10 ANOS;8;3;DETRATORES;56-70;5-9;Assertividade ou Orientação;negativo
+19;M;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;2;5;DETRATORES;<25;1-4;Assertividade ou Orientação;neutro
+52;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;3;5;DETRATORES;46-55;1-4;Cartão de Crédito;negativo
+56;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;2;5;DETRATORES;56-70;1-4;Funcionalidades;positivo
+44;F;ATIVO;PF;PF IV;BAIXO 1;DE 11 A 15 ANOS;4;5;DETRATORES;36-45;1-4;Assertividade ou Orientação;negativo
+55;M;ATIVO;PF;PF I;MÉDIO 1;DE 11 A 15 ANOS;1;4;DETRATORES;56-70;1-4;Crédito, Empréstimo ou Financiamento;neutro
+54;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;7;5;DETRATORES;46-55;5-9;Crédito, Empréstimo ou Financiamento;positivo
+45;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;5;2;DETRATORES;46-55;5-9;Tempo ou Agilidade atendimento;negativo
+56;M;INATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;3;1;DETRATORES;56-70;1-4;Cordialidade;negativo
+57;F;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;4;5;DETRATORES;56-70;1-4;Comparação com outras IFs;negativo
+47;M;INATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;1;0;DETRATORES;46-55;1-4;Uso App;negativo
+51;F;INATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;2;4;DETRATORES;46-55;1-4;Disponibilidade contato;neutro
+54;M;ATIVO;PF;PF IV;MÉDIO 1;ATÉ 12 MESES;3;0;DETRATORES;46-55;1-4;Tempo ou Agilidade atendimento;positivo
+42;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;3;0;DETRATORES;36-45;1-4;Facilidade ou Burocracia;neutro
+49;M;ATIVO;PF;PF IV;BAIXO 2;DE 1 A 2 ANOS;3;1;DETRATORES;46-55;1-4;Principalidade;negativo
+67;M;ATIVO;PF;PF II;MÉDIO 1;DE 1 A 2 ANOS;6;5;DETRATORES;56-70;5-9;Cartão de Crédito;neutro
+43;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;36-45;1-4;Confiabilidade da Coop;positivo
+45;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;6;5;DETRATORES;46-55;5-9;Crédito, Empréstimo ou Financiamento;negativo
+36;M;ATIVO;PF;PF IV;BAIXO 1;DE 11 A 15 ANOS;10;6;DETRATORES;36-45;10-14;Principalidade;negativo
+52;M;ATIVO;PF;PF IV;BAIXO 1;DE 3 A 5 ANOS;2;0;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+46;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;11;6;DETRATORES;46-55;10-14;Facilidade ou Burocracia;negativo
+47;M;ATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;9;0;DETRATORES;46-55;5-9;Disponibilidade contato;negativo
+42;M;ATIVO;AG;Familiar;BAIXO 1;A PARTIR DE 15 ANOS;3;0;DETRATORES;36-45;1-4;Disponibilidade contato;negativo
+47;F;ATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;4;5;DETRATORES;46-55;1-4;Disponibilidade contato;neutro
+46;M;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;4;5;DETRATORES;46-55;1-4;Personalização e Proximidade;positivo
+49;M;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;5;5;DETRATORES;46-55;5-9;Satisfação geral;negativo
+56;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;0;0;DETRATORES;56-70;0;Atendimento em geral;negativo
+55;M;ATIVO;PF;PF I;BAIXO 1;DE 6 A 10 ANOS;3;3;DETRATORES;56-70;1-4;Uso App;negativo
+44;F;ATIVO;PF;PF II;MÉDIO 2;DE 1 A 2 ANOS;5;5;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+46;F;ATIVO;AG;Médio Produtor;BAIXO 2;DE 11 A 15 ANOS;8;3;DETRATORES;46-55;5-9;Benefícios;neutro
+37;F;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;9;5;DETRATORES;36-45;5-9;Personalização e Proximidade;neutro
+49;M;ATIVO;PF;PF IV;BAIXO 1;DE 1 A 2 ANOS;10;5;DETRATORES;46-55;10-14;Uso App;negativo
+37;M;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;7;6;DETRATORES;36-45;5-9;Cordialidade;positivo
+44;M;ATIVO;PF;PF I;BAIXO 1;A PARTIR DE 15 ANOS;1;2;DETRATORES;36-45;1-4;Uso App;negativo
+44;F;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;6;6;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;neutro
+43;M;ATIVO;PF;PF III;BAIXO 2;DE 11 A 15 ANOS;1;1;DETRATORES;36-45;1-4;Cordialidade;negativo
+43;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;3;1;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+54;M;ATIVO;AG;Familiar;BAIXO 1;DE 3 A 5 ANOS;3;1;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;negativo
+40;M;ATIVO;PF;PF II;BAIXO 1;DE 11 A 15 ANOS;5;5;DETRATORES;36-45;5-9;Benefícios da Cooperativa;negativo
+42;F;ATIVO;PF;PF II;BAIXO 2;DE 11 A 15 ANOS;6;5;DETRATORES;36-45;5-9;Comparação com outras IFs;negativo
+52;F;ATIVO;PF;PF III;MÉDIO 2;DE 1 A 2 ANOS;7;6;DETRATORES;46-55;5-9;Atendimento em geral;positivo
+41;M;ATIVO;AG;Familiar;BAIXÍSSIMO;A PARTIR DE 15 ANOS;10;5;DETRATORES;36-45;10-14;Seguros;negativo
+47;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;3;5;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;positivo
+42;M;ATIVO;PF;PF IV;MÉDIO 2;DE 1 A 2 ANOS;6;5;DETRATORES;36-45;5-9;Troca de gerente;neutro
+38;M;ATIVO;PF;PF III;BAIXO 1;A PARTIR DE 15 ANOS;7;5;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;negativo
+30;F;ATIVO;PF;PF II;BAIXÍSSIMO;DE 11 A 15 ANOS;8;4;DETRATORES;25-35;5-9;Seguros;positivo
+35;M;ATIVO;PF;PF II;ALTO 1;DE 1 A 2 ANOS;0;0;DETRATORES;36-45;0;Taxas e Tarifas;neutro
+39;F;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;0;0;DETRATORES;36-45;0;Conhecimento ou qualificação do atendente;positivo
+36;F;ATIVO;PF;PF I;MÉDIO 2;DE 11 A 15 ANOS;7;0;DETRATORES;36-45;5-9;Atendimento em geral;neutro
+26;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;4;2;DETRATORES;25-35;1-4;Benefícios;negativo
+34;M;ATIVO;PF;PF IV;BAIXO 2;ATÉ 12 MESES;0;0;DETRATORES;25-35;0;Crédito, Empréstimo ou Financiamento;negativo
+38;M;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;11;4;DETRATORES;36-45;10-14;Benefícios da Cooperativa;positivo
+30;M;ATIVO;PF;PF II;BAIXO 1;DE 11 A 15 ANOS;4;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;positivo
+60;M;ATIVO;AG;Médio Produtor;BAIXO 2;ATÉ 12 MESES;2;6;DETRATORES;56-70;1-4;Disponibilidade contato;negativo
+54;M;ATIVO;AG;Médio Produtor;MÉDIO 1;DE 1 A 2 ANOS;2;2;DETRATORES;46-55;1-4;Cordialidade;neutro
+21;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Rentabilidade;positivo
+33;M;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;8;0;DETRATORES;25-35;5-9;Troca de gerente;negativo
+32;F;ATIVO;PF;PF I;MÉDIO 1;DE 6 A 10 ANOS;9;3;DETRATORES;25-35;5-9;Atendimento em geral;positivo
+39;M;ATIVO;PF;PF II;ALTO 2;DE 11 A 15 ANOS;6;2;DETRATORES;36-45;5-9;Cartão de Crédito;positivo
+35;M;ATIVO;PF;PF III;BAIXO 1;ATÉ 12 MESES;8;6;DETRATORES;36-45;5-9;Funcionamento App;negativo
+34;F;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;4;6;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+37;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;2;0;DETRATORES;36-45;1-4;Funcionamento App;negativo
+32;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;2;4;DETRATORES;25-35;1-4;Satisfação geral;positivo
+30;F;INATIVO;PF;PF III;MÉDIO 1;DE 3 A 5 ANOS;0;0;DETRATORES;25-35;0;Personalização e Proximidade;positivo
+33;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;25-35;1-4;Conta Corrente ou Poupança;neutro
+34;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;5;3;DETRATORES;25-35;5-9;Rentabilidade;negativo
+29;M;ATIVO;PF;PF IV;BAIXO 2;DE 1 A 2 ANOS;4;0;DETRATORES;25-35;1-4;Retorno solicitações;positivo
+20;M;ATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;0;0;DETRATORES;<25;0;Conta Corrente ou Poupança;negativo
+29;M;ATIVO;PF;PF II;DEFAULT;DE 6 A 10 ANOS;3;5;DETRATORES;25-35;1-4;Atendimento em geral;negativo
+30;M;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;7;5;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+42;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;7;2;DETRATORES;36-45;5-9;Atendimento em geral;negativo
+25;M;ATIVO;PF;PF I;ALTO 2;DE 1 A 2 ANOS;3;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;negativo
+32;M;INATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;0;0;DETRATORES;25-35;0;Facilidade ou Burocracia;negativo
+34;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;3;4;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+34;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;3;0;DETRATORES;25-35;1-4;Principalidade;negativo
+40;M;INATIVO;PF;PF II;BAIXO 2;DE 11 A 15 ANOS;0;4;DETRATORES;36-45;0;Comparação com outras IFs;negativo
+39;M;ATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;0;5;DETRATORES;36-45;0;Assertividade ou Orientação;negativo
+25;F;ATIVO;PF;PF II;ALTO 1;DE 3 A 5 ANOS;2;5;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+39;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;2;5;DETRATORES;36-45;1-4;Tempo ou Agilidade atendimento;negativo
+43;M;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;3;0;DETRATORES;36-45;1-4;Cordialidade;negativo
+31;F;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;1;0;DETRATORES;25-35;1-4;Crédito, Empréstimo ou Financiamento;neutro
+24;F;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;4;5;DETRATORES;<25;1-4;Cordialidade;negativo
+38;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;8;4;DETRATORES;36-45;5-9;Uso App;negativo
+41;F;ATIVO;PF;PF III;DEFAULT;DE 3 A 5 ANOS;5;2;DETRATORES;36-45;5-9;Retorno solicitações;negativo
+35;F;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;6;DETRATORES;36-45;5-9;Funcionamento App;negativo
+22;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;7;0;DETRATORES;<25;5-9;Crédito, Empréstimo ou Financiamento;negativo
+36;F;ATIVO;PF;PF II;ALTÍSSIMO;DE 6 A 10 ANOS;6;5;DETRATORES;36-45;5-9;Retorno solicitações;negativo
+31;F;ATIVO;PF;PF III;BAIXO 2;DE 1 A 2 ANOS;7;6;DETRATORES;25-35;5-9;Outros;neutro
+38;M;ATIVO;PF;PF III;BAIXO 1;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Atendimento em geral;negativo
+41;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;5;5;DETRATORES;36-45;5-9;Funcionamento App;negativo
+28;M;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;7;5;DETRATORES;25-35;5-9;Facilidade ou Burocracia;negativo
+19;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;0;1;DETRATORES;<25;0;Funcionamento App;negativo
+19;M;ATIVO;PF;PF I;MÉDIO 1;DE 6 A 10 ANOS;8;5;DETRATORES;<25;5-9;Principalidade;neutro
+35;M;ATIVO;PF;PF III;DEFAULT;DE 11 A 15 ANOS;0;0;DETRATORES;36-45;0;Atendimento em geral;negativo
+27;M;ATIVO;PF;PF II;ALTO 2;ATÉ 12 MESES;1;5;DETRATORES;25-35;1-4;Cartão de Crédito;neutro
+28;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 1 A 2 ANOS;1;0;DETRATORES;25-35;1-4;Seguros;negativo
+48;M;ATIVO;AG;Familiar;MÉDIO 1;ATÉ 12 MESES;0;6;DETRATORES;46-55;0;Principalidade;neutro
+36;M;ATIVO;PF;PF IV;ALTÍSSIMO;DE 3 A 5 ANOS;3;5;DETRATORES;36-45;1-4;Uso App;negativo
+37;F;ATIVO;PF;PF II;MÉDIO 1;DE 1 A 2 ANOS;2;5;DETRATORES;36-45;1-4;Crédito, Empréstimo ou Financiamento;negativo
+30;F;ATIVO;PF;PF I;BAIXO 2;ATÉ 12 MESES;5;6;DETRATORES;25-35;5-9;Benefícios;positivo
+56;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;2;4;DETRATORES;56-70;1-4;Conta Corrente ou Poupança;negativo
+35;M;ATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;3;6;DETRATORES;36-45;1-4;Funcionalidades;neutro
+26;F;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;6;0;DETRATORES;25-35;5-9;Disponibilidade contato;negativo
+28;M;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;6;6;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;neutro
+19;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;3;5;DETRATORES;<25;1-4;Crédito, Empréstimo ou Financiamento;negativo
+33;M;ATIVO;AG;Familiar;BAIXO 1;ATÉ 12 MESES;9;0;DETRATORES;25-35;5-9;Atendimento em geral;negativo
+43;M;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;3;0;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+42;F;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;4;5;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+42;M;ATIVO;PF;PF III;ALTÍSSIMO;DE 3 A 5 ANOS;1;5;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+28;F;ATIVO;PF;PF I;MÉDIO 1;ATÉ 12 MESES;5;6;DETRATORES;25-35;5-9;Principalidade;neutro
+37;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;6;2;DETRATORES;36-45;5-9;Disponibilidade contato;negativo
+38;F;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;7;0;DETRATORES;36-45;5-9;Facilidade ou Burocracia;negativo
+35;F;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;5;6;DETRATORES;36-45;5-9;Uso App;negativo
+49;M;ATIVO;PF;PF III;BAIXÍSSIMO;A PARTIR DE 15 ANOS;8;3;DETRATORES;46-55;5-9;Facilidade ou Burocracia;negativo
+27;M;ATIVO;PF;PF III;MÉDIO 2;DE 3 A 5 ANOS;7;5;DETRATORES;25-35;5-9;Uso App;neutro
+28;M;ATIVO;PF;PF III;MÉDIO 1;DE 11 A 15 ANOS;6;5;DETRATORES;25-35;5-9;Funcionamento App;negativo
+33;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;3;6;DETRATORES;25-35;1-4;Comparação com outras IFs;negativo
+29;F;ATIVO;PF;PF III;BAIXO 2;DE 6 A 10 ANOS;6;5;DETRATORES;25-35;5-9;Cartão de Crédito;negativo
+36;M;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;5;4;DETRATORES;36-45;5-9;Crédito, Empréstimo ou Financiamento;positivo
+25;F;ATIVO;PF;PF I;MÉDIO 2;DE 1 A 2 ANOS;4;6;DETRATORES;25-35;1-4;Uso App;negativo
+28;F;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;5;6;DETRATORES;25-35;5-9;Facilidade ou Burocracia;negativo
+43;M;ATIVO;PF;PF III;MÉDIO 1;DE 11 A 15 ANOS;8;5;DETRATORES;36-45;5-9;Facilidade ou Burocracia;negativo
+47;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 6 A 10 ANOS;8;0;DETRATORES;46-55;5-9;Atendimento em geral;negativo
+25;F;ATIVO;PF;PF I;ALTO 1;ATÉ 12 MESES;2;5;DETRATORES;25-35;1-4;Uso App;neutro
+43;M;ATIVO;PF;PF II;BAIXÍSSIMO;DE 3 A 5 ANOS;4;2;DETRATORES;36-45;1-4;Cordialidade;positivo
+44;M;ATIVO;AG;Familiar;MÉDIO 1;DE 6 A 10 ANOS;9;1;DETRATORES;36-45;5-9;Benefícios;negativo
+25;M;ATIVO;PF;PF II;MÉDIO 2;DE 6 A 10 ANOS;4;5;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+31;F;ATIVO;PF;PF IV;MÉDIO 1;ATÉ 12 MESES;4;0;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+39;M;ATIVO;AG;Médio Produtor;MÉDIO 2;DE 6 A 10 ANOS;4;4;DETRATORES;36-45;1-4;Conta Corrente ou Poupança;negativo
+40;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;4;2;DETRATORES;36-45;1-4;Retorno solicitações;negativo
+19;M;ATIVO;PF;PF I;MÉDIO 1;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Facilidade ou Burocracia;negativo
+19;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;4;3;DETRATORES;<25;1-4;Tempo ou Agilidade atendimento;positivo
+18;F;ATIVO;PF;PF I;MÉDIO 1;DE 1 A 2 ANOS;5;6;DETRATORES;<25;5-9;Benefícios;positivo
+40;F;ATIVO;PF;PF II;BAIXO 2;DE 1 A 2 ANOS;4;5;DETRATORES;36-45;1-4;Outros;neutro
+22;M;ATIVO;PF;PF I;BAIXO 1;DE 6 A 10 ANOS;5;0;DETRATORES;<25;5-9;Retorno solicitações;negativo
+22;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;2;5;DETRATORES;<25;1-4;Uso App;neutro
+35;M;INATIVO;PF;PF I;BAIXO 1;DE 11 A 15 ANOS;2;6;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+34;M;ATIVO;PF;PF III;ALTO 1;DE 1 A 2 ANOS;2;0;DETRATORES;25-35;1-4;Benefícios;negativo
+33;M;ATIVO;PF;PF II;MÉDIO 2;ATÉ 12 MESES;6;1;DETRATORES;25-35;5-9;Crédito, Empréstimo ou Financiamento;negativo
+45;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;3;0;DETRATORES;46-55;1-4;Conta Corrente ou Poupança;negativo
+32;F;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;7;0;DETRATORES;25-35;5-9;Facilidade ou Burocracia;negativo
+38;F;ATIVO;PF;PF III;ALTO 2;DE 1 A 2 ANOS;5;6;DETRATORES;36-45;5-9;Conhecimento ou qualificação do atendente;negativo
+36;F;ATIVO;PF;PF IV;ALTO 1;DE 1 A 2 ANOS;2;0;DETRATORES;36-45;1-4;Troca de gerente;neutro
+31;M;ATIVO;PF;PF III;BAIXO 2;ATÉ 12 MESES;6;5;DETRATORES;25-35;5-9;Atendimento em geral;negativo
+30;F;ATIVO;PF;PF I;ALTO 1;DE 11 A 15 ANOS;2;5;DETRATORES;25-35;1-4;Atendimento em geral;negativo
+26;F;ATIVO;AG;Familiar;BAIXO 1;DE 6 A 10 ANOS;9;5;DETRATORES;25-35;5-9;Benefícios;negativo
+29;F;ATIVO;PF;PF I;DEFAULT;DE 6 A 10 ANOS;2;5;DETRATORES;25-35;1-4;Conta Corrente ou Poupança;negativo
+27;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;9;1;DETRATORES;25-35;5-9;Outros;neutro
+25;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;2;2;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+48;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;2;2;DETRATORES;46-55;1-4;Outros;negativo
+34;F;INATIVO;PF;PF II;DEFAULT;DE 11 A 15 ANOS;0;3;DETRATORES;25-35;0;Disponibilidade contato;negativo
+23;F;ATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;2;0;DETRATORES;<25;1-4;Facilidade ou Burocracia;neutro
+30;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;3;2;DETRATORES;25-35;1-4;Facilidade ou Burocracia;negativo
+63;M;ATIVO;PF;PF IV;BAIXÍSSIMO;DE 6 A 10 ANOS;9;2;DETRATORES;56-70;5-9;Facilidade ou Burocracia;negativo
+43;F;ATIVO;PF;PF II;BAIXO 1;DE 6 A 10 ANOS;6;4;DETRATORES;36-45;5-9;Assertividade ou Orientação;negativo
+49;F;ATIVO;PF;PF III;ALTO 1;ATÉ 12 MESES;3;3;DETRATORES;46-55;1-4;Facilidade ou Burocracia;negativo
+40;M;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;5;DETRATORES;36-45;5-9;Outros;neutro
+58;M;ATIVO;PF;PF IV;BAIXO 2;ATÉ 12 MESES;4;5;DETRATORES;56-70;1-4;Atendimento em geral;negativo
+23;M;ATIVO;PF;PF I;MÉDIO 2;DE 3 A 5 ANOS;5;6;DETRATORES;<25;5-9;Uso App;neutro
+66;M;ATIVO;PF;PF IV;BAIXO 1;ATÉ 12 MESES;5;4;DETRATORES;56-70;5-9;Confiabilidade da Coop;negativo
+36;F;ATIVO;PF;PF II;;ATÉ 12 MESES;3;3;DETRATORES;36-45;1-4;Principalidade;negativo
+62;F;ATIVO;AG;Familiar;BAIXO 1;A PARTIR DE 15 ANOS;0;0;DETRATORES;56-70;0;Atendimento em geral;positivo
+58;M;ATIVO;PF;PF III;BAIXO 1;DE 3 A 5 ANOS;6;5;DETRATORES;56-70;5-9;Atendimento em geral;negativo
+26;M;ATIVO;PF;PF II;ALTO 2;DE 1 A 2 ANOS;2;2;DETRATORES;25-35;1-4;Funcionamento App;negativo
+58;M;ATIVO;PF;PF II;DEFAULT;DE 3 A 5 ANOS;1;0;DETRATORES;56-70;1-4;Outros;neutro
+52;M;INATIVO;PF;PF IV;BAIXO 2;A PARTIR DE 15 ANOS;0;0;DETRATORES;46-55;0;Facilidade ou Burocracia;negativo
+60;M;ATIVO;PF;PF IV;BAIXO 2;DE 11 A 15 ANOS;7;5;DETRATORES;56-70;5-9;Facilidade ou Burocracia;negativo
+27;M;ATIVO;PF;PF II;MÉDIO 1;DE 3 A 5 ANOS;1;6;DETRATORES;25-35;1-4;Comparação com outras IFs;negativo
+51;M;ATIVO;PF;PF III;BAIXÍSSIMO;DE 6 A 10 ANOS;4;6;DETRATORES;46-55;1-4;Crédito, Empréstimo ou Financiamento;positivo
+45;F;INATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;1;0;DETRATORES;46-55;1-4;Atendimento em geral;negativo
+56;M;INATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;3;1;DETRATORES;56-70;1-4;Conhecimento ou qualificação do atendente;negativo
+57;F;ATIVO;PF;PF III;BAIXÍSSIMO;DE 3 A 5 ANOS;4;5;DETRATORES;56-70;1-4;Benefícios;negativo
+47;M;INATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;1;0;DETRATORES;46-55;1-4;Segurança;negativo
+51;F;INATIVO;PF;PF I;ALTO 1;DE 3 A 5 ANOS;2;4;DETRATORES;46-55;1-4;Principalidade;negativo
+43;F;ATIVO;PF;PF I;ALTO 1;DE 1 A 2 ANOS;3;5;DETRATORES;36-45;1-4;Outros;neutro
+45;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;6;5;DETRATORES;46-55;5-9;Facilidade ou Burocracia;negativo
+36;M;ATIVO;PF;PF IV;BAIXO 1;DE 11 A 15 ANOS;10;6;DETRATORES;36-45;10-14;Facilidade ou Burocracia;negativo
+47;M;ATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;9;0;DETRATORES;46-55;5-9;Satisfação geral;negativo
+46;M;ATIVO;PF;PF I;BAIXO 1;DE 3 A 5 ANOS;4;5;DETRATORES;46-55;1-4;Atendimento em geral;positivo
+55;M;ATIVO;PF;PF I;BAIXO 1;DE 6 A 10 ANOS;3;3;DETRATORES;56-70;1-4;Funcionamento App;negativo
+46;F;ATIVO;AG;Médio Produtor;BAIXO 2;DE 11 A 15 ANOS;8;3;DETRATORES;46-55;5-9;Satisfação geral;neutro
+37;M;ATIVO;PF;PF II;MÉDIO 1;DE 6 A 10 ANOS;7;6;DETRATORES;36-45;5-9;Atendimento em geral;positivo
+43;M;ATIVO;PF;PF III;BAIXO 2;DE 11 A 15 ANOS;1;1;DETRATORES;36-45;1-4;Confiabilidade da Coop;negativo
+43;M;ATIVO;PF;PF II;BAIXO 2;DE 3 A 5 ANOS;3;1;DETRATORES;36-45;1-4;Satisfação geral;negativo
+41;M;ATIVO;AG;Familiar;BAIXÍSSIMO;A PARTIR DE 15 ANOS;10;5;DETRATORES;36-45;10-14;Comparação com outras IFs;negativo
+38;M;ATIVO;PF;PF III;BAIXO 1;A PARTIR DE 15 ANOS;7;5;DETRATORES;36-45;5-9;Benefícios;neutro
+30;F;ATIVO;PF;PF II;BAIXÍSSIMO;DE 11 A 15 ANOS;8;4;DETRATORES;25-35;5-9;Benefícios;positivo
+39;F;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;0;0;DETRATORES;36-45;0;Atendimento em geral;positivo
+26;M;ATIVO;PF;PF II;BAIXO 2;DE 6 A 10 ANOS;4;2;DETRATORES;25-35;1-4;Principalidade;negativo
+30;M;ATIVO;PF;PF II;BAIXO 1;DE 11 A 15 ANOS;4;5;DETRATORES;25-35;1-4;Uso App;positivo
+60;M;ATIVO;AG;Médio Produtor;BAIXO 2;ATÉ 12 MESES;2;6;DETRATORES;56-70;1-4;Atendimento em geral;neutro
+54;M;ATIVO;AG;Médio Produtor;MÉDIO 1;DE 1 A 2 ANOS;2;2;DETRATORES;46-55;1-4;Outros;neutro
+21;M;ATIVO;PF;PF I;BAIXO 2;DE 3 A 5 ANOS;4;6;DETRATORES;<25;1-4;Conta Corrente ou Poupança;positivo
+39;M;ATIVO;PF;PF II;ALTO 2;DE 11 A 15 ANOS;6;2;DETRATORES;36-45;5-9;Benefícios;positivo
+32;M;ATIVO;PF;PF II;ALTO 2;DE 3 A 5 ANOS;2;4;DETRATORES;25-35;1-4;Disponibilidade contato;positivo
+34;M;ATIVO;PF;PF I;ALTO 2;ATÉ 12 MESES;5;3;DETRATORES;25-35;5-9;Facilidade ou Burocracia;negativo
+29;M;ATIVO;PF;PF IV;BAIXO 2;DE 1 A 2 ANOS;4;0;DETRATORES;25-35;1-4;Facilidade ou Burocracia;positivo
+20;M;ATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;0;0;DETRATORES;<25;0;Retorno solicitações;negativo
+29;M;ATIVO;PF;PF II;DEFAULT;DE 6 A 10 ANOS;3;5;DETRATORES;25-35;1-4;Cordialidade;negativo
+32;M;INATIVO;PF;PF I;DEFAULT;DE 3 A 5 ANOS;0;0;DETRATORES;25-35;0;Retorno solicitações;negativo
+34;F;ATIVO;PF;PF II;MÉDIO 2;DE 3 A 5 ANOS;3;0;DETRATORES;25-35;1-4;Benefícios da Cooperativa;negativo
+40;M;INATIVO;PF;PF II;BAIXO 2;DE 11 A 15 ANOS;0;4;DETRATORES;36-45;0;Satisfação geral;negativo
+39;M;ATIVO;PF;PF IV;BAIXO 2;DE 3 A 5 ANOS;0;5;DETRATORES;36-45;0;Comparação com outras IFs;negativo
+43;M;ATIVO;PF;PF I;ALTÍSSIMO;DE 3 A 5 ANOS;3;0;DETRATORES;36-45;1-4;Facilidade ou Burocracia;negativo
+38;F;ATIVO;PF;PF III;BAIXO 2;DE 3 A 5 ANOS;8;4;DETRATORES;36-45;5-9;Facilidade ou Burocracia;negativo
+41;F;ATIVO;PF;PF III;DEFAULT;DE 3 A 5 ANOS;5;2;DETRATORES;36-45;5-9;Satisfação geral;negativo
+35;F;ATIVO;PF;PF II;BAIXO 2;ATÉ 12 MESES;5;6;DETRATORES;36-45;5-9;Conhecimento ou qualificação do atendente;neutro
+22;M;ATIVO;PF;PF II;BAIXO 1;DE 3 A 5 ANOS;7;0;DETRATORES;<25;5-9;Benefícios;negativo
+38;M;ATIVO;PF;PF III;BAIXO 1;ATÉ 12 MESES;1;5;DETRATORES;36-45;1-4;Benefícios;negativo
+41;F;ATIVO;PF;PF II;ALTO 1;ATÉ 12 MESES;5;5;DETRATORES;36-45;5-9;Uso App;negativo
+19;F;ATIVO;PF;PF I;MÉDIO 2;ATÉ 12 MESES;0;1;DETRATORES;<25;0;Disponibilidade contato;neutro
+19;M;ATIVO;PF;PF I;MÉDIO 1;DE 6 A 10 ANOS;8;5;DETRATORES;<25;5-9;Crédito, Empréstimo ou Financiamento;negativo
+28;M;ATIVO;PF;PF II;ALTÍSSIMO;DE 1 A 2 ANOS;1;0;DETRATORES;25-35;1-4;Cordialidade;negativo
+36;M;ATIVO;PF;PF IV;ALTÍSSIMO;DE 3 A 5 ANOS;3;5;DETRATORES;36-45;1-4;Comparação com outras IFs;negativo
+56;M;ATIVO;PF;PF III;MÉDIO 2;ATÉ 12 MESES;2;4;DETRATORES;56-70;1-4;Cartão de Crédito;negativo
